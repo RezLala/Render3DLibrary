@@ -1,0 +1,6 @@
+Kenney (www.kenney.nl)
+
+License: Creative Commons Zero, CC0
+http://creativecommons.org/publicdomain/zero/1.0/
+
+These 3D models come from the Kenney Starter Kits on GitHub (github.com/KenneyNL). The kit README states that sprites and 3D models are CC0 licensed; the kit code is MIT licensed and is not included here.

@@ -1,0 +1,7 @@
+RobotExpressive
+
+Model by Tomas Laulhe (Quaternius), modifications by Don McCurdy.
+License: Creative Commons Zero, CC0
+http://creativecommons.org/publicdomain/zero/1.0/
+
+Source: three.js examples, github.com/mrdoob/three.js/tree/master/examples/models/gltf/RobotExpressive
