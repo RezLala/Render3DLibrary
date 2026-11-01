@@ -30,7 +30,35 @@ Free 3D characters, animations and props used to build short 3D videos in Blende
 * Kenney Starter Kits: github.com/KenneyNL
 * RobotExpressive: github.com/mrdoob/three.js (examples/models/gltf)
 
+## Credits
+
+All files are CC0, so no credit is legally required. We credit the creators anyway, with thanks:
+
+* Kay Lousberg (KayKit), www.kaylousberg.com: character animations, mannequin, adventurers and all KayKit prop packs
+* Kenney, www.kenney.nl: Kenney Platformer and Kenney City Builder models
+* Tomas Laulhe (Quaternius), with modifications by Don McCurdy: RobotExpressive
+
+The creators do not endorse this library or its videos.
+
+## Safety
+
+Every file is checked before it is added, so the library is safe to download:
+
+* Only plain 3D models (.glb, .gltf, .bin), textures (.png, .jpg) and text files (.txt, .md) are allowed. No programs, scripts or engine files, except the check itself in Tools.
+* Each file's contents must match its type, nothing is marked as executable, and no file is over 30 MB.
+* Models may only load files from their own folder: no internet links and no paths outside the folder.
+* Every model is also run through the official Khronos glTF Validator.
+
+Run the check from the repository root before every commit:
+
+```
+python3 -I Tools/SafetyCheck.py
+```
+
+Last full check: 2 Nov 2026. PASSED for all 600 files. The validator reports only a harmless precision note in RobotExpressive (its skin weights do not add up to exactly 1); this is in the original file and is not a safety issue.
+
 ## Rules for this repository
 
-* Only CC0 files go here, each folder with its licence.
+* Only CC0 files go here, each folder with its licence and, where the source has one, its original note.
+* Every addition passes Tools/SafetyCheck.py and the glTF Validator before it is committed.
 * Mixamo files and any file whose licence forbids sharing never go in this public repository.
