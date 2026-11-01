@@ -55,7 +55,7 @@ Run the check from the repository root before every commit:
 python3 -I Tools/SafetyCheck.py
 ```
 
-Last full check: 2 Nov 2026. PASSED for all 600 files. The validator reports only a harmless precision note in RobotExpressive (its skin weights do not add up to exactly 1); this is in the original file and is not a safety issue.
+Last full check: 2 Nov 2026. PASSED for all 605 files. The validator reports only a harmless precision note in RobotExpressive (its skin weights do not add up to exactly 1); this is in the original file and is not a safety issue.
 
 ## Rules for this repository
 
