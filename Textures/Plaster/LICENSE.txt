@@ -6,6 +6,7 @@ Free for personal and commercial use, no credit required. Sources and creators b
 
 Plaster.Painted.Beige.01: Poly Haven beige_wall_001, https://polyhaven.com/a/beige_wall_001, by Dimitrios Savva (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
 Plaster.Painted.Burgundy.Grime.01: made for this library in code from ambientCG Plaster001, ambientCG SurfaceImperfections011 (CC0); released as CC0.
+Plaster.Painted.Olive.01: ambientCG PaintedPlaster012, https://ambientcg.com/a/PaintedPlaster012, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
 Plaster.Painted.Red.01: ambientCG PaintedPlaster001, https://ambientcg.com/a/PaintedPlaster001, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
 Plaster.Painted.Weathered.01: Poly Haven painted_plaster_wall, https://polyhaven.com/a/painted_plaster_wall, by Amal Kumar (All) (Poly Haven), licence https://polyhaven.com/license
 Plaster.Painted.Yellow.01: ambientCG PaintedPlaster004, https://ambientcg.com/a/PaintedPlaster004, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

@@ -10,7 +10,7 @@
   "medianColour": "median sRGB colour of the Color map (opaque pixels only for overlays and decals)"
  },
  "counts": {
-  "textures": 118,
+  "textures": 120,
   "decals": 23,
   "modelPacks": 0,
   "models": 0
@@ -5202,6 +5202,72 @@
    "notes": "Plaster001 recoloured to a dark burgundy with light grime and water stains."
   },
   {
+   "id": "Plaster.Painted.Olive.01",
+   "family": "Plaster",
+   "kind": "surface",
+   "suits": [
+    "muted room wall",
+    "army office",
+    "old school"
+   ],
+   "folder": "Textures/Plaster",
+   "resolution": "1K",
+   "pixels": [
+    1024,
+    1024
+   ],
+   "maps": {
+    "Color": {
+     "file": "Textures/Plaster/Plaster.Painted.Olive.01.Color.1K.jpg",
+     "bytes": 163111,
+     "pixels": [
+      1024,
+      1024
+     ]
+    },
+    "Normal": {
+     "file": "Textures/Plaster/Plaster.Painted.Olive.01.Normal.1K.jpg",
+     "bytes": 631727,
+     "pixels": [
+      1024,
+      1024
+     ]
+    },
+    "Roughness": {
+     "file": "Textures/Plaster/Plaster.Painted.Olive.01.Roughness.1K.jpg",
+     "bytes": 202390,
+     "pixels": [
+      1024,
+      1024
+     ]
+    },
+    "AO": {
+     "file": "Textures/Plaster/Plaster.Painted.Olive.01.AO.1K.jpg",
+     "bytes": 272165,
+     "pixels": [
+      1024,
+      1024
+     ]
+    }
+   },
+   "bytes": 1269393,
+   "medianColour": "#7a7861",
+   "tileMetres": 2.0,
+   "tileHeightMetres": 2.0,
+   "tileSize": "estimate",
+   "source": {
+    "provider": "ambientCG",
+    "asset": "PaintedPlaster012",
+    "page": "https://ambientcg.com/a/PaintedPlaster012",
+    "creator": "Lennart Demes (ambientCG)",
+    "download": "https://ambientcg.com/get?file=PaintedPlaster012_1K-JPG.zip"
+   },
+   "licence": "CC0 1.0 Universal (public domain)",
+   "licenceUrl": "https://docs.ambientcg.com/license/",
+   "madeHere": false,
+   "notes": "Re-saved as JPEG quality 90 from the source JPG maps; Displacement and DirectX normal maps left out."
+  },
+  {
    "id": "Plaster.Painted.Red.01",
    "family": "Plaster",
    "kind": "surface",
@@ -7099,6 +7165,73 @@
     "page": "https://ambientcg.com/a/Wood051",
     "creator": "Lennart Demes (ambientCG)",
     "download": "https://ambientcg.com/get?file=Wood051_1K-JPG.zip"
+   },
+   "licence": "CC0 1.0 Universal (public domain)",
+   "licenceUrl": "https://docs.ambientcg.com/license/",
+   "madeHere": false,
+   "notes": "Re-saved as JPEG quality 90 from the source JPG maps; Displacement and DirectX normal maps left out."
+  },
+  {
+   "id": "Wood.Painted.Green.Worn.01",
+   "family": "Wood",
+   "kind": "surface",
+   "suits": [
+    "market stall",
+    "garden shed",
+    "shutters",
+    "park bench"
+   ],
+   "folder": "Textures/Wood",
+   "resolution": "1K",
+   "pixels": [
+    1024,
+    1024
+   ],
+   "maps": {
+    "Color": {
+     "file": "Textures/Wood/Wood.Painted.Green.Worn.01.Color.1K.jpg",
+     "bytes": 307593,
+     "pixels": [
+      1024,
+      1024
+     ]
+    },
+    "Normal": {
+     "file": "Textures/Wood/Wood.Painted.Green.Worn.01.Normal.1K.jpg",
+     "bytes": 330671,
+     "pixels": [
+      1024,
+      1024
+     ]
+    },
+    "Roughness": {
+     "file": "Textures/Wood/Wood.Painted.Green.Worn.01.Roughness.1K.jpg",
+     "bytes": 181132,
+     "pixels": [
+      1024,
+      1024
+     ]
+    },
+    "AO": {
+     "file": "Textures/Wood/Wood.Painted.Green.Worn.01.AO.1K.jpg",
+     "bytes": 190321,
+     "pixels": [
+      1024,
+      1024
+     ]
+    }
+   },
+   "bytes": 1009717,
+   "medianColour": "#6c8d6e",
+   "tileMetres": 1.0,
+   "tileHeightMetres": 1.0,
+   "tileSize": "estimate",
+   "source": {
+    "provider": "ambientCG",
+    "asset": "PaintedWood009B",
+    "page": "https://ambientcg.com/a/PaintedWood009B",
+    "creator": "Lennart Demes (ambientCG)",
+    "download": "https://ambientcg.com/get?file=PaintedWood009B_1K-JPG.zip"
    },
    "licence": "CC0 1.0 Universal (public domain)",
    "licenceUrl": "https://docs.ambientcg.com/license/",

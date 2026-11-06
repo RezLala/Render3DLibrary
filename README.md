@@ -21,7 +21,7 @@ Free 3D characters, animations, props, textures and decals used to build short 3
 
 ## Textures and decals
 
-Added 7 Nov 2026 for the cartoon shorts (flat 2D characters in a 3D world): 118 seamless texture sets in 16 families and 23 decals, 130 MB in all. [Catalogue.json](Catalogue.json) lists every one with its id, family, what it suits, maps, resolution, file sizes, median colour, real tile size in metres, source and licence.
+Added 7 Nov 2026 for the cartoon shorts (flat 2D characters in a 3D world): 120 seamless texture sets in 16 families and 23 decals, 137 MB in all. [Catalogue.json](Catalogue.json) lists every one with its id, family, what it suits, maps, resolution, file sizes, median colour, real tile size in metres, source and licence.
 
 ![Every texture at a glance](Textures/Texture.Swatches.png)
 
@@ -29,11 +29,11 @@ All decals are on one sheet too: [Decals/Decal.Swatches.png](Decals/Decal.Swatch
 
 | Folder | What it holds | Sets | Sources | Licence |
 |---|---|---|---|---|
-| Textures/Wood | Light, medium and dark worn floor planks, herringbone parquet, oak, walnut, mahogany and knotty pine grain, a worn plank table top, dark worn panelling, dark and rough nailed planks, chipboard, navy painted wood, wicker | 15 | ambientCG, Poly Haven | CC0 |
+| Textures/Wood | Light, medium and dark worn floor planks, herringbone parquet, oak, walnut, mahogany and knotty pine grain, a worn plank table top, dark worn panelling, dark and rough nailed planks, chipboard, navy and green painted wood, wicker | 16 | ambientCG, Poly Haven | CC0 |
 | Textures/Paper | Plain white and recycled, crumpled white, aged beige (2K), aged and yellowed, newsprint, kraft, crumpled kraft, clean and torn cardboard | 10 | ambientCG, made here | CC0 |
 | Textures/Cork | Yellow cork (2K), the same cork with dark brown criss cross ribbons and brass tacks for a bulletin board (2K), amber cork (2K), tan cork | 4 | ambientCG, made here | CC0 |
 | Textures/Wallpaper | Dark burgundy damask with a near black print for closed rooms (2K), the same damask in green and gold, navy and grey, mustard and brown, a burgundy regency stripe, white woodchip, decrepit peeling paper | 7 | made here, ambientCG, Poly Haven | CC0 |
-| Textures/Plaster | White stucco, old white with light grime, painted beige, yellow, red and weathered, dark burgundy with grime | 7 | ambientCG, Poly Haven, made here | CC0 |
+| Textures/Plaster | White stucco, old white with light grime, painted beige, yellow, red, olive and weathered, dark burgundy with grime | 8 | ambientCG, Poly Haven, made here | CC0 |
 | Textures/Fabric | Grey and green felt, red velvet, blue linen, canvas, coarse burlap, red quatrefoil and dark floral jacquard, gold satin, green gingham, red plaid | 11 | Poly Haven, ambientCG, made here | CC0 |
 | Textures/Leather | Burgundy tufted chesterfield, dark brown, worn brown, black, dark diamond stitched | 5 | ambientCG | CC0 |
 | Textures/Carpet | Beige wool, plain red, plain navy, beige squares, green stripes, dirty green | 6 | ambientCG, Poly Haven | CC0 |
@@ -116,7 +116,7 @@ The damask and stripe wallpapers, the ribbon cork board, the chalkboards, the ne
 * Kenney Nature Kit 2.1: kenney.nl/assets/nature-kit. The .glb files only. One unused link to an empty helper node was removed from each model so that it passes the glTF Validator; the geometry and the loaded model are unchanged.
 * Kenney Fantasy Town Kit 2.0: kenney.nl/assets/fantasy-town-kit. The .glb files and their texture only.
 * RobotExpressive: github.com/mrdoob/three.js (examples/models/gltf)
-* ambientCG, ambientcg.com (CC0): 80 texture and overlay sets and 7 decal atlases, from the 1K and 2K JPG zips. Only the image maps were kept; no .blend, .usdc, .mtlx or other files.
+* ambientCG, ambientcg.com (CC0): 82 texture and overlay sets and 7 decal atlases, from the 1K and 2K JPG zips. Only the image maps were kept; no .blend, .usdc, .mtlx or other files.
 * Poly Haven, polyhaven.com (CC0): 22 texture sets, from the single 1K JPG maps.
 * Made for this library in code (CC0): 16 texture sets and 16 decals, listed above under Made here.
 
@@ -127,7 +127,7 @@ All files are CC0, so no credit is legally required. We credit the creators anyw
 * Kay Lousberg (KayKit), www.kaylousberg.com: character animations, mannequin, adventurers and all KayKit prop packs
 * Kenney, www.kenney.nl: Kenney Platformer, Kenney City Builder, Nature Kit and Fantasy Town Kit models
 * Tomas Laulhe (Quaternius), with modifications by Don McCurdy: RobotExpressive
-* Lennart Demes (ambientCG), ambientcg.com: 87 texture, overlay and decal sets
+* Lennart Demes (ambientCG), ambientcg.com: 89 texture, overlay and decal sets
 * Poly Haven, polyhaven.com, and its artists Rob Tuytel, Dimitrios Savva, Rico Cilliers, colormass, Amal Kumar and Rohit Seervi: 22 texture sets
 
 The creators do not endorse this library or its videos.
@@ -147,7 +147,7 @@ Run the check from the repository root before every commit:
 python3 -I Tools/SafetyCheck.py
 ```
 
-Last safety check: 7 Nov 2026. PASSED for all 1,600 files, including the 495 added that day: 454 texture maps, 16 decal PNGs, 2 swatch sheets, Catalogue.json and a LICENSE.txt in each of the 22 new folders.
+Last safety check: 7 Nov 2026. PASSED for all 1,608 files, including the 503 added that day: 462 texture maps, 16 decal PNGs, 2 swatch sheets, Catalogue.json and a LICENSE.txt in each of the 22 new folders.
 
 Check of 5 Nov 2026: PASSED for all 1,105 files. The 496 models added that day (Nature Kit and Fantasy Town Kit) also passed the glTF Validator with no errors or warnings.
 
