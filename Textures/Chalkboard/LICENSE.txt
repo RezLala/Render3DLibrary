@@ -1,0 +1,8 @@
+Render 3D Library, Textures/Chalkboard
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Chalkboard.Black.01: made for this library in code from ambientCG Concrete034, ambientCG Smear007 (CC0); released as CC0.
+Chalkboard.Green.01: made for this library in code from ambientCG Concrete034, ambientCG Smear007 (CC0); released as CC0.

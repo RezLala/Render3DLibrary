@@ -1,0 +1,11 @@
+Render 3D Library, Textures/Stone
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Stone.Blocks.Castle.01: Poly Haven stone_brick_wall_001, https://polyhaven.com/a/stone_brick_wall_001, by Dimitrios Savva (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Stone.Cobblestone.Arches.01: ambientCG PavingStones151, https://ambientcg.com/a/PavingStones151, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Stone.Marble.Black.01: ambientCG Marble016, https://ambientcg.com/a/Marble016, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Stone.Marble.White.01: ambientCG Marble012, https://ambientcg.com/a/Marble012, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Stone.Wall.Rustic.01: Poly Haven rustic_stone_wall_02, https://polyhaven.com/a/rustic_stone_wall_02, by Amal Kumar (All) (Poly Haven), licence https://polyhaven.com/license

@@ -1,0 +1,8 @@
+Render 3D Library, Decals/Posters
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Decal.Poster.Aged.Bordered.01: made for this library in code; released as CC0.
+Decal.Poster.Aged.Torn.01: made for this library in code; released as CC0.

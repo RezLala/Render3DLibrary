@@ -1,0 +1,10 @@
+Render 3D Library, Decals/Tape
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Decal.Tape.Caution.Yellow.01: ambientCG Tape001, https://ambientcg.com/a/Tape001, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Decal.Tape.Duct.Silver.01: ambientCG Tape006, https://ambientcg.com/a/Tape006, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Decal.Tape.Masking.01: ambientCG Tape005, https://ambientcg.com/a/Tape005, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Decal.Tape.Packaging.Brown.01: ambientCG Tape004, https://ambientcg.com/a/Tape004, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

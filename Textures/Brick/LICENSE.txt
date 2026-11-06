@@ -1,0 +1,11 @@
+Render 3D Library, Textures/Brick
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Brick.Painted.Mint.01: ambientCG PaintedBricks003, https://ambientcg.com/a/PaintedBricks003, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Brick.Painted.White.01: ambientCG PaintedBricks004, https://ambientcg.com/a/PaintedBricks004, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Brick.Red.Clean.01: ambientCG Bricks104, https://ambientcg.com/a/Bricks104, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Brick.Red.Dark.01: Poly Haven red_brick_03, https://polyhaven.com/a/red_brick_03, by Rob Tuytel (All) (Poly Haven), licence https://polyhaven.com/license
+Brick.Red.Old.01: ambientCG Bricks097, https://ambientcg.com/a/Bricks097, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

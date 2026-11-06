@@ -1,0 +1,21 @@
+Render 3D Library, Textures/Wood
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Wood.Chipboard.OSB.01: ambientCG Chipboard004, https://ambientcg.com/a/Chipboard004, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Wood.Floor.Parquet.Herringbone.01: ambientCG WoodFloor034, https://ambientcg.com/a/WoodFloor034, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Wood.Floor.Planks.Dark.Worn.01: Poly Haven wood_floor_worn, https://polyhaven.com/a/wood_floor_worn, by Dimitrios Savva (All) (Poly Haven), licence https://polyhaven.com/license
+Wood.Floor.Planks.Light.01: ambientCG WoodFloor051, https://ambientcg.com/a/WoodFloor051, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Wood.Floor.Planks.Medium.01: ambientCG WoodFloor064, https://ambientcg.com/a/WoodFloor064, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Wood.Grain.Oak.01: ambientCG Wood049, https://ambientcg.com/a/Wood049, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Wood.Grain.Pine.Knots.01: ambientCG Wood096, https://ambientcg.com/a/Wood096, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Wood.Grain.Walnut.Dark.01: ambientCG Wood051, https://ambientcg.com/a/Wood051, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Wood.Painted.Navy.Worn.01: ambientCG PaintedWood007B, https://ambientcg.com/a/PaintedWood007B, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Wood.Panelling.Dark.Worn.01: Poly Haven wood_cabinet_worn_long, https://polyhaven.com/a/wood_cabinet_worn_long, by Dimitrios Savva (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Wood.Planks.Dark.01: ambientCG Planks023A, https://ambientcg.com/a/Planks023A, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Wood.Planks.Rough.Nailed.01: ambientCG Planks020, https://ambientcg.com/a/Planks020, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Wood.Table.Mahogany.01: Poly Haven wood_table_001, https://polyhaven.com/a/wood_table_001, by Dimitrios Savva (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Wood.Table.Worn.Planks.01: Poly Haven wood_table_worn, https://polyhaven.com/a/wood_table_worn, by Dimitrios Savva (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Wood.Wicker.Light.01: ambientCG Wicker010A, https://ambientcg.com/a/Wicker010A, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

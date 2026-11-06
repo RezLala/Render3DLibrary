@@ -1,0 +1,9 @@
+Render 3D Library, Textures/Concrete
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Concrete.Floor.Worn.01: Poly Haven concrete_floor_worn_001, https://polyhaven.com/a/concrete_floor_worn_001, by Dimitrios Savva (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Concrete.Old.Grey.01: ambientCG Concrete036, https://ambientcg.com/a/Concrete036, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Concrete.Smooth.Light.01: ambientCG Concrete034, https://ambientcg.com/a/Concrete034, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

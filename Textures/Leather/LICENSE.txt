@@ -1,0 +1,11 @@
+Render 3D Library, Textures/Leather
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Leather.Black.01: ambientCG Leather026, https://ambientcg.com/a/Leather026, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Leather.Brown.Dark.01: ambientCG Leather037, https://ambientcg.com/a/Leather037, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Leather.Brown.Worn.01: ambientCG Leather014, https://ambientcg.com/a/Leather014, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Leather.Stitched.Diamond.Dark.01: ambientCG Leather034C, https://ambientcg.com/a/Leather034C, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Leather.Tufted.Burgundy.01: ambientCG Leather011, https://ambientcg.com/a/Leather011, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

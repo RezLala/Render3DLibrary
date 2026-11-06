@@ -1,0 +1,12 @@
+Render 3D Library, Decals/Notes
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Decal.Note.Index.Card.01: made for this library in code; released as CC0.
+Decal.Note.Notebook.Torn.01: made for this library in code; released as CC0.
+Decal.Note.Sticky.Blue.01: made for this library in code; released as CC0.
+Decal.Note.Sticky.Green.01: made for this library in code; released as CC0.
+Decal.Note.Sticky.Pink.01: made for this library in code; released as CC0.
+Decal.Note.Sticky.Yellow.01: made for this library in code; released as CC0.

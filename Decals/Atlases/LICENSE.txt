@@ -1,0 +1,9 @@
+Render 3D Library, Decals/Atlases
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Decal.Cardboard.Pieces.01: ambientCG CardboardSet001, https://ambientcg.com/a/CardboardSet001, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Decal.Graffiti.Tags.01: ambientCG GraffitiSet001, https://ambientcg.com/a/GraffitiSet001, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Decal.Painting.Modern.01: ambientCG Painting001, https://ambientcg.com/a/Painting001, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

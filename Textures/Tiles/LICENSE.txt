@@ -1,0 +1,12 @@
+Render 3D Library, Textures/Tiles
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Tiles.Checker.Black.White.01: ambientCG Tiles012, https://ambientcg.com/a/Tiles012, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Tiles.Checker.Cream.01: ambientCG Tiles139, https://ambientcg.com/a/Tiles139, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Tiles.Marble.Checker.Dark.01: Poly Haven floor_tiles_06, https://polyhaven.com/a/floor_tiles_06, by Rob Tuytel (All) (Poly Haven), licence https://polyhaven.com/license
+Tiles.Stone.Beige.Dirty.01: ambientCG Tiles141, https://ambientcg.com/a/Tiles141, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Tiles.Stone.Dark.Old.01: ambientCG Tiles140, https://ambientcg.com/a/Tiles140, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Tiles.Subway.White.01: ambientCG Tiles036, https://ambientcg.com/a/Tiles036, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

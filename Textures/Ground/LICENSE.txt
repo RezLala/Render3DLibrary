@@ -1,0 +1,12 @@
+Render 3D Library, Textures/Ground
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Ground.Dirt.Path.01: ambientCG Ground103, https://ambientcg.com/a/Ground103, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ground.Dirt.Soil.01: ambientCG Ground048, https://ambientcg.com/a/Ground048, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ground.Grass.Lawn.01: ambientCG Grass005, https://ambientcg.com/a/Grass005, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ground.Grass.Lush.01: ambientCG Grass004, https://ambientcg.com/a/Grass004, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ground.Sand.Beach.01: ambientCG Ground054, https://ambientcg.com/a/Ground054, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ground.Sand.Yellow.01: ambientCG Ground080, https://ambientcg.com/a/Ground080, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

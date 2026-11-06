@@ -3,15 +3,15 @@
 Run from the repository root before every commit:
     python3 -I Tools/SafetyCheck.py
 
-It fails (exit code 1) if any file is not a plain 3D model, texture or text file,
-if a model points outside its own folder or to the internet, if a file is
-executable, or if a file is larger than 30 MB.
+It fails (exit code 1) if any file is not a plain 3D model, texture, text file or
+JSON catalogue, if a model points outside its own folder or to the internet, if a
+file is executable, or if a file is larger than 30 MB.
 """
 import json, os, re, struct, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MAX_BYTES = 30 * 1024 * 1024
-ALLOWED = {'.glb', '.gltf', '.bin', '.png', '.jpg', '.jpeg', '.txt', '.md'}
+ALLOWED = {'.glb', '.gltf', '.bin', '.png', '.jpg', '.jpeg', '.txt', '.md', '.json'}
 TOOLS_ALLOWED = {'.py'}
 SUSPICIOUS = re.compile(rb'<script|javascript:|powershell|cmd\.exe|/bin/sh|\beval\(|\bexec\(|MZ\x90\x00', re.I)
 problems, counts = [], {}
@@ -83,6 +83,13 @@ for dirpath, dirnames, filenames in os.walk(ROOT):
             bad(path, 'not a real PNG image')
         elif ext in ('.jpg', '.jpeg') and data[:3] != b'\xff\xd8\xff':
             bad(path, 'not a real JPEG image')
+        elif ext == '.json':
+            try:
+                json.loads(data.decode('utf-8'))
+            except Exception:
+                bad(path, 'JSON file is not plain readable JSON')
+            if SUSPICIOUS.search(data):
+                bad(path, 'suspicious text')
         elif ext in ('.txt', '.md') and not in_tools:
             try:
                 data.decode('utf-8')
@@ -99,4 +106,4 @@ if problems:
     for p in problems:
         print(' ', p)
     sys.exit(1)
-print('PASSED: every file is a plain model, texture or text file, with no links outside its folder.')
+print('PASSED: every file is a plain model, texture, text file or JSON catalogue, with no links outside its folder.')

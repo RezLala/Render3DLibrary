@@ -1,0 +1,13 @@
+Render 3D Library, Textures/Wallpaper
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Wallpaper.Damask.Burgundy.Black.01: made for this library in code; released as CC0.
+Wallpaper.Damask.Green.Gold.01: made for this library in code; released as CC0.
+Wallpaper.Damask.Mustard.Brown.01: made for this library in code; released as CC0.
+Wallpaper.Damask.Navy.Grey.01: made for this library in code; released as CC0.
+Wallpaper.Decrepit.Peeling.01: Poly Haven decrepit_wallpaper, https://polyhaven.com/a/decrepit_wallpaper, by Rob Tuytel (All) (Poly Haven), licence https://polyhaven.com/license
+Wallpaper.Stripe.Burgundy.01: made for this library in code; released as CC0.
+Wallpaper.Woodchip.White.01: ambientCG Wallpaper001A, https://ambientcg.com/a/Wallpaper001A, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

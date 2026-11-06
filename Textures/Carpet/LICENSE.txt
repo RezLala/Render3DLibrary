@@ -1,0 +1,12 @@
+Render 3D Library, Textures/Carpet
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Carpet.Dirty.Green.01: Poly Haven dirty_carpet, https://polyhaven.com/a/dirty_carpet, by Rohit Seervi (All) (Poly Haven), licence https://polyhaven.com/license
+Carpet.Pattern.Squares.Beige.01: ambientCG Carpet008, https://ambientcg.com/a/Carpet008, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Carpet.Plain.Navy.01: ambientCG Carpet012, https://ambientcg.com/a/Carpet012, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Carpet.Plain.Red.01: ambientCG Carpet013, https://ambientcg.com/a/Carpet013, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Carpet.Stripes.Green.01: ambientCG Carpet010, https://ambientcg.com/a/Carpet010, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Carpet.Wool.Beige.01: ambientCG Carpet016, https://ambientcg.com/a/Carpet016, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

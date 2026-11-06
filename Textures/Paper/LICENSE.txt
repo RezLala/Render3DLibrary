@@ -1,0 +1,16 @@
+Render 3D Library, Textures/Paper
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Paper.Aged.Beige.01: ambientCG Paper006, https://ambientcg.com/a/Paper006, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Paper.Aged.Yellowed.01: made for this library in code from ambientCG Paper002, ambientCG SurfaceImperfections011 (CC0); released as CC0.
+Paper.Cardboard.Clean.01: ambientCG Cardboard002, https://ambientcg.com/a/Cardboard002, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Paper.Cardboard.Torn.01: ambientCG Cardboard003, https://ambientcg.com/a/Cardboard003, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Paper.Crumpled.White.01: ambientCG Paper003, https://ambientcg.com/a/Paper003, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Paper.Kraft.01: ambientCG Paper004, https://ambientcg.com/a/Paper004, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Paper.Kraft.Crumpled.01: ambientCG Paper005, https://ambientcg.com/a/Paper005, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Paper.Newsprint.01: made for this library in code from ambientCG Paper002 (CC0); released as CC0.
+Paper.Plain.Recycled.01: ambientCG Paper002, https://ambientcg.com/a/Paper002, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Paper.Plain.White.01: ambientCG Paper001, https://ambientcg.com/a/Paper001, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

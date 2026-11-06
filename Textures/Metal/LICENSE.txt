@@ -1,0 +1,16 @@
+Render 3D Library, Textures/Metal
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Metal.Brass.Polished.01: made for this library in code from ambientCG Metal034 (CC0); released as CC0.
+Metal.Copper.01: ambientCG Metal035, https://ambientcg.com/a/Metal035, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Metal.Gold.Aged.01: ambientCG Metal048C, https://ambientcg.com/a/Metal048C, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Metal.Gold.Polished.01: ambientCG Metal034, https://ambientcg.com/a/Metal034, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Metal.Iron.01: ambientCG Metal055A, https://ambientcg.com/a/Metal055A, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Metal.Iron.Rusted.01: ambientCG Metal053C, https://ambientcg.com/a/Metal053C, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Metal.Painted.Blue.Plate.01: Poly Haven blue_metal_plate, https://polyhaven.com/a/blue_metal_plate, by Rob Tuytel (All) (Poly Haven), licence https://polyhaven.com/license
+Metal.Painted.Red.Scratched.01: ambientCG PaintedMetal004, https://ambientcg.com/a/PaintedMetal004, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Metal.Steel.Brushed.01: ambientCG Metal009, https://ambientcg.com/a/Metal009, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Metal.Steel.Scratched.01: ambientCG Metal038, https://ambientcg.com/a/Metal038, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

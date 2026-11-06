@@ -1,0 +1,22 @@
+Render 3D Library, Textures/Ageing
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Ageing.Corner.Grime.01: made for this library in code; released as CC0.
+Ageing.Dirt.Grunge.01: ambientCG SurfaceImperfections008, https://ambientcg.com/a/SurfaceImperfections008, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Dust.Heavy.01: ambientCG SurfaceImperfections016, https://ambientcg.com/a/SurfaceImperfections016, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Dust.Light.01: ambientCG SurfaceImperfections015, https://ambientcg.com/a/SurfaceImperfections015, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Edge.Wear.01: made for this library in code; released as CC0.
+Ageing.Fingerprints.01: ambientCG Fingerprints002, https://ambientcg.com/a/Fingerprints002, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Leak.Drips.01: ambientCG Leaking016A, https://ambientcg.com/a/Leaking016A, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Leak.Streaks.01: ambientCG Leaking012A, https://ambientcg.com/a/Leaking012A, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Paint.Cracked.White.01: ambientCG Paint004, https://ambientcg.com/a/Paint004, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Rust.Edge.01: ambientCG Rust001, https://ambientcg.com/a/Rust001, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Scratches.Fine.01: ambientCG Scratches004, https://ambientcg.com/a/Scratches004, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Scratches.Random.01: ambientCG Scratches002, https://ambientcg.com/a/Scratches002, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Smear.Wipes.01: ambientCG Smear007, https://ambientcg.com/a/Smear007, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Smudge.01: ambientCG SurfaceImperfections003, https://ambientcg.com/a/SurfaceImperfections003, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Stain.Coffee.Rings.01: ambientCG SurfaceImperfections007, https://ambientcg.com/a/SurfaceImperfections007, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Ageing.Stain.Water.01: ambientCG SurfaceImperfections011, https://ambientcg.com/a/SurfaceImperfections011, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/

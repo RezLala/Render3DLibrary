@@ -1,0 +1,17 @@
+Render 3D Library, Textures/Fabric
+
+Every file in this folder is CC0 1.0 Universal (public domain).
+https://creativecommons.org/publicdomain/zero/1.0/
+Free for personal and commercial use, no credit required. Sources and creators below, with thanks.
+
+Fabric.Burlap.Coarse.01: Poly Haven hessian_230, https://polyhaven.com/a/hessian_230, by colormass (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Fabric.Canvas.Natural.01: Poly Haven hessian_380, https://polyhaven.com/a/hessian_380, by colormass (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Fabric.Felt.Green.01: made for this library in code from ambientCG Fabric034 (CC0); released as CC0.
+Fabric.Felt.Grey.01: ambientCG Fabric034, https://ambientcg.com/a/Fabric034, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Fabric.Gingham.Green.01: Poly Haven gingham_check, https://polyhaven.com/a/gingham_check, by colormass (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Fabric.Jacquard.Floral.Dark.01: Poly Haven floral_jacquard, https://polyhaven.com/a/floral_jacquard, by colormass (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Fabric.Jacquard.Quatrefoil.Red.01: Poly Haven quatrefoil_jacquard_fabric, https://polyhaven.com/a/quatrefoil_jacquard_fabric, by colormass (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Fabric.Linen.Blue.01: Poly Haven rough_linen, https://polyhaven.com/a/rough_linen, by colormass (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Fabric.Plaid.Red.01: ambientCG Fabric080, https://ambientcg.com/a/Fabric080, by Lennart Demes (ambientCG), licence https://docs.ambientcg.com/license/
+Fabric.Satin.Gold.01: Poly Haven crepe_satin, https://polyhaven.com/a/crepe_satin, by colormass (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
+Fabric.Velvet.Red.01: Poly Haven velour_velvet, https://polyhaven.com/a/velour_velvet, by colormass (Photography), Rico Cilliers (Processing) (Poly Haven), licence https://polyhaven.com/license
