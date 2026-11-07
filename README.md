@@ -18,6 +18,12 @@ Free 3D characters, animations, props, textures and decals used to build short 3
 | Props/KenneyCityBuilder | Roads and buildings | 15 | Kenney | CC0 |
 | Props/KenneyNatureKit | Trees, plants, flowers, rocks, crops, paths, bridges and camp props | 329 | Kenney | CC0 |
 | Props/KenneyFantasyTown | Town walls, roofs, stalls, carts, banners, lanterns, fences and a windmill, with one shared texture | 167 | Kenney | CC0 |
+| Props/KenneyFurnitureKit | Home furniture in flat colours: sofas, beds, tables, chairs, desks, kitchen units and appliances, bathroom pieces, lamps, rugs, plants, books, walls, floors and doorways | 140 | Kenney | CC0 |
+| Props/KenneyCityKitCommercial | Shops, office blocks and towers in full and low detail, awnings, overhangs and parasols, with one shared texture | 41 | Kenney | CC0 |
+| Props/KenneyCityKitSuburban | Houses, driveways, fences, paths, stepping stones, a planter and trees, with one shared texture | 40 | Kenney | CC0 |
+| Props/KenneyFoodKit | Fruit, vegetables, bread, cakes, cupcakes, donuts, pizza, burgers, sushi, drinks, bottles, plates, pans and knives, with one shared texture | 200 | Kenney | CC0 |
+
+The four Kenney packs added on 7 Nov 2026 are all on one sheet: [Props/Model.Swatches.png](Props/Model.Swatches.png). Catalogue.json lists every model with its file, original name and size.
 
 ## Textures and decals
 
@@ -116,6 +122,7 @@ The damask and stripe wallpapers, the ribbon cork board, the chalkboards, the ne
 * Kenney Nature Kit 2.1: kenney.nl/assets/nature-kit. The .glb files only. One unused link to an empty helper node was removed from each model so that it passes the glTF Validator; the geometry and the loaded model are unchanged.
 * Kenney Fantasy Town Kit 2.0: kenney.nl/assets/fantasy-town-kit. The .glb files and their texture only.
 * RobotExpressive: github.com/mrdoob/three.js (examples/models/gltf)
+* Kenney Furniture Kit 2.0, City Kit Commercial 2.1, City Kit Suburban 2.0 and Food Kit 2.0: kenney.nl/assets (furniture kit, city kit commercial, city kit suburban, food kit). The .glb files, their one texture and the licence only. Files are renamed to Title.Case with dots (the original names are in Catalogue.json); inside each model the texture link was changed from Textures/colormap.png to Textures/Colormap.png and nothing else, so the geometry is byte for byte Kenney's.
 * ambientCG, ambientcg.com (CC0): 82 texture and overlay sets and 7 decal atlases, from the 1K and 2K JPG zips. Only the image maps were kept; no .blend, .usdc, .mtlx or other files.
 * Poly Haven, polyhaven.com (CC0): 22 texture sets, from the single 1K JPG maps.
 * Made for this library in code (CC0): 16 texture sets and 16 decals, listed above under Made here.
@@ -125,7 +132,7 @@ The damask and stripe wallpapers, the ribbon cork board, the chalkboards, the ne
 All files are CC0, so no credit is legally required. We credit the creators anyway, with thanks:
 
 * Kay Lousberg (KayKit), www.kaylousberg.com: character animations, mannequin, adventurers and all KayKit prop packs
-* Kenney, www.kenney.nl: Kenney Platformer, Kenney City Builder, Nature Kit and Fantasy Town Kit models
+* Kenney, www.kenney.nl: Kenney Platformer, Kenney City Builder, Nature Kit, Fantasy Town Kit, Furniture Kit, City Kit Commercial, City Kit Suburban and Food Kit models
 * Tomas Laulhe (Quaternius), with modifications by Don McCurdy: RobotExpressive
 * Lennart Demes (ambientCG), ambientcg.com: 89 texture, overlay and decal sets
 * Poly Haven, polyhaven.com, and its artists Rob Tuytel, Dimitrios Savva, Rico Cilliers, colormass, Amal Kumar and Rohit Seervi: 22 texture sets
@@ -147,7 +154,7 @@ Run the check from the repository root before every commit:
 python3 -I Tools/SafetyCheck.py
 ```
 
-Last safety check: 7 Nov 2026. PASSED for all 1,608 files, including the 503 added that day: 462 texture maps, 16 decal PNGs, 2 swatch sheets, Catalogue.json and a LICENSE.txt in each of the 22 new folders.
+Last safety check: 7 Nov 2026. PASSED for all 2,037 files, including the 932 added that day: 462 texture maps, 16 decal PNGs, 3 swatch sheets, 421 models with their 3 textures, Catalogue.json and a LICENSE.txt in each of the 26 new folders. The 421 models (Furniture Kit, City Kit Commercial, City Kit Suburban, Food Kit) also passed the glTF Validator with no errors or warnings; it lists only info notes (unused texture coordinates and tangents, and the texture link inside each GLB).
 
 Check of 5 Nov 2026: PASSED for all 1,105 files. The 496 models added that day (Nature Kit and Fantasy Town Kit) also passed the glTF Validator with no errors or warnings.
 

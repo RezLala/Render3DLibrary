@@ -12,8 +12,8 @@
  "counts": {
   "textures": 120,
   "decals": 23,
-  "modelPacks": 0,
-  "models": 0
+  "modelPacks": 4,
+  "models": 421
  },
  "textures": [
   {
@@ -8672,5 +8672,3899 @@
    "notes": "Picture frames with a transparent centre; put a picture plane just behind. Transparent PNG."
   }
  ],
- "models": []
+ "models": [
+  {
+   "pack": "KenneyFurnitureKit",
+   "title": "Furniture Kit",
+   "family": "Props",
+   "folder": "Props/KenneyFurnitureKit",
+   "creator": "Kenney (www.kenney.nl)",
+   "source": {
+    "provider": "Kenney",
+    "page": "https://kenney.nl/assets/furniture-kit"
+   },
+   "licence": "CC0 1.0 Universal (public domain)",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "suits": [
+    "home interior",
+    "living room",
+    "bedroom",
+    "kitchen",
+    "bathroom",
+    "office"
+   ],
+   "count": 140,
+   "bytes": 1960832,
+   "texture": null,
+   "notes": "GLB files renamed to Title.Case; the texture link inside each model was changed from Textures/colormap.png to Textures/Colormap.png and nothing else.",
+   "items": [
+    {
+     "id": "Bathroom.Cabinet",
+     "file": "Props/KenneyFurnitureKit/Bathroom.Cabinet.glb",
+     "original": "bathroomCabinet.glb",
+     "bytes": 7216,
+     "suits": [
+      "bathroom cabinet"
+     ]
+    },
+    {
+     "id": "Bathroom.Cabinet.Drawer",
+     "file": "Props/KenneyFurnitureKit/Bathroom.Cabinet.Drawer.glb",
+     "original": "bathroomCabinetDrawer.glb",
+     "bytes": 34744,
+     "suits": [
+      "bathroom cabinet drawer"
+     ]
+    },
+    {
+     "id": "Bathroom.Mirror",
+     "file": "Props/KenneyFurnitureKit/Bathroom.Mirror.glb",
+     "original": "bathroomMirror.glb",
+     "bytes": 6792,
+     "suits": [
+      "bathroom mirror"
+     ]
+    },
+    {
+     "id": "Bathroom.Sink",
+     "file": "Props/KenneyFurnitureKit/Bathroom.Sink.glb",
+     "original": "bathroomSink.glb",
+     "bytes": 22536,
+     "suits": [
+      "bathroom sink"
+     ]
+    },
+    {
+     "id": "Bathroom.Sink.Square",
+     "file": "Props/KenneyFurnitureKit/Bathroom.Sink.Square.glb",
+     "original": "bathroomSinkSquare.glb",
+     "bytes": 15108,
+     "suits": [
+      "bathroom sink square"
+     ]
+    },
+    {
+     "id": "Bathtub",
+     "file": "Props/KenneyFurnitureKit/Bathtub.glb",
+     "original": "bathtub.glb",
+     "bytes": 35500,
+     "suits": [
+      "bathtub"
+     ]
+    },
+    {
+     "id": "Bear",
+     "file": "Props/KenneyFurnitureKit/Bear.glb",
+     "original": "bear.glb",
+     "bytes": 11884,
+     "suits": [
+      "bear"
+     ]
+    },
+    {
+     "id": "Bed.Bunk",
+     "file": "Props/KenneyFurnitureKit/Bed.Bunk.glb",
+     "original": "bedBunk.glb",
+     "bytes": 40784,
+     "suits": [
+      "bed bunk"
+     ]
+    },
+    {
+     "id": "Bed.Double",
+     "file": "Props/KenneyFurnitureKit/Bed.Double.glb",
+     "original": "bedDouble.glb",
+     "bytes": 23368,
+     "suits": [
+      "bed double"
+     ]
+    },
+    {
+     "id": "Bed.Single",
+     "file": "Props/KenneyFurnitureKit/Bed.Single.glb",
+     "original": "bedSingle.glb",
+     "bytes": 18636,
+     "suits": [
+      "bed single"
+     ]
+    },
+    {
+     "id": "Bench",
+     "file": "Props/KenneyFurnitureKit/Bench.glb",
+     "original": "bench.glb",
+     "bytes": 10756,
+     "suits": [
+      "bench"
+     ]
+    },
+    {
+     "id": "Bench.Cushion",
+     "file": "Props/KenneyFurnitureKit/Bench.Cushion.glb",
+     "original": "benchCushion.glb",
+     "bytes": 12500,
+     "suits": [
+      "bench cushion"
+     ]
+    },
+    {
+     "id": "Bench.Cushion.Low",
+     "file": "Props/KenneyFurnitureKit/Bench.Cushion.Low.glb",
+     "original": "benchCushionLow.glb",
+     "bytes": 10268,
+     "suits": [
+      "bench cushion low"
+     ]
+    },
+    {
+     "id": "Bookcase.Closed",
+     "file": "Props/KenneyFurnitureKit/Bookcase.Closed.glb",
+     "original": "bookcaseClosed.glb",
+     "bytes": 23132,
+     "suits": [
+      "bookcase closed"
+     ]
+    },
+    {
+     "id": "Bookcase.Closed.Doors",
+     "file": "Props/KenneyFurnitureKit/Bookcase.Closed.Doors.glb",
+     "original": "bookcaseClosedDoors.glb",
+     "bytes": 22644,
+     "suits": [
+      "bookcase closed doors"
+     ]
+    },
+    {
+     "id": "Bookcase.Closed.Wide",
+     "file": "Props/KenneyFurnitureKit/Bookcase.Closed.Wide.glb",
+     "original": "bookcaseClosedWide.glb",
+     "bytes": 23140,
+     "suits": [
+      "bookcase closed wide"
+     ]
+    },
+    {
+     "id": "Bookcase.Open",
+     "file": "Props/KenneyFurnitureKit/Bookcase.Open.glb",
+     "original": "bookcaseOpen.glb",
+     "bytes": 18020,
+     "suits": [
+      "bookcase open"
+     ]
+    },
+    {
+     "id": "Bookcase.Open.Low",
+     "file": "Props/KenneyFurnitureKit/Bookcase.Open.Low.glb",
+     "original": "bookcaseOpenLow.glb",
+     "bytes": 11520,
+     "suits": [
+      "bookcase open low"
+     ]
+    },
+    {
+     "id": "Books",
+     "file": "Props/KenneyFurnitureKit/Books.glb",
+     "original": "books.glb",
+     "bytes": 6864,
+     "suits": [
+      "books"
+     ]
+    },
+    {
+     "id": "Cabinet.Bed",
+     "file": "Props/KenneyFurnitureKit/Cabinet.Bed.glb",
+     "original": "cabinetBed.glb",
+     "bytes": 7496,
+     "suits": [
+      "cabinet bed"
+     ]
+    },
+    {
+     "id": "Cabinet.Bed.Drawer",
+     "file": "Props/KenneyFurnitureKit/Cabinet.Bed.Drawer.glb",
+     "original": "cabinetBedDrawer.glb",
+     "bytes": 16088,
+     "suits": [
+      "cabinet bed drawer"
+     ]
+    },
+    {
+     "id": "Cabinet.Bed.Drawer.Table",
+     "file": "Props/KenneyFurnitureKit/Cabinet.Bed.Drawer.Table.glb",
+     "original": "cabinetBedDrawerTable.glb",
+     "bytes": 12200,
+     "suits": [
+      "cabinet bed drawer table"
+     ]
+    },
+    {
+     "id": "Cabinet.Television",
+     "file": "Props/KenneyFurnitureKit/Cabinet.Television.glb",
+     "original": "cabinetTelevision.glb",
+     "bytes": 10524,
+     "suits": [
+      "cabinet television"
+     ]
+    },
+    {
+     "id": "Cabinet.Television.Doors",
+     "file": "Props/KenneyFurnitureKit/Cabinet.Television.Doors.glb",
+     "original": "cabinetTelevisionDoors.glb",
+     "bytes": 16876,
+     "suits": [
+      "cabinet television doors"
+     ]
+    },
+    {
+     "id": "Cardboard.Box.Closed",
+     "file": "Props/KenneyFurnitureKit/Cardboard.Box.Closed.glb",
+     "original": "cardboardBoxClosed.glb",
+     "bytes": 5400,
+     "suits": [
+      "cardboard box closed"
+     ]
+    },
+    {
+     "id": "Cardboard.Box.Open",
+     "file": "Props/KenneyFurnitureKit/Cardboard.Box.Open.glb",
+     "original": "cardboardBoxOpen.glb",
+     "bytes": 5404,
+     "suits": [
+      "cardboard box open"
+     ]
+    },
+    {
+     "id": "Ceiling.Fan",
+     "file": "Props/KenneyFurnitureKit/Ceiling.Fan.glb",
+     "original": "ceilingFan.glb",
+     "bytes": 15284,
+     "suits": [
+      "ceiling fan"
+     ]
+    },
+    {
+     "id": "Chair",
+     "file": "Props/KenneyFurnitureKit/Chair.glb",
+     "original": "chair.glb",
+     "bytes": 10756,
+     "suits": [
+      "chair"
+     ]
+    },
+    {
+     "id": "Chair.Cushion",
+     "file": "Props/KenneyFurnitureKit/Chair.Cushion.glb",
+     "original": "chairCushion.glb",
+     "bytes": 12588,
+     "suits": [
+      "chair cushion"
+     ]
+    },
+    {
+     "id": "Chair.Desk",
+     "file": "Props/KenneyFurnitureKit/Chair.Desk.glb",
+     "original": "chairDesk.glb",
+     "bytes": 39016,
+     "suits": [
+      "chair desk"
+     ]
+    },
+    {
+     "id": "Chair.Modern.Cushion",
+     "file": "Props/KenneyFurnitureKit/Chair.Modern.Cushion.glb",
+     "original": "chairModernCushion.glb",
+     "bytes": 7376,
+     "suits": [
+      "chair modern cushion"
+     ]
+    },
+    {
+     "id": "Chair.Modern.Frame.Cushion",
+     "file": "Props/KenneyFurnitureKit/Chair.Modern.Frame.Cushion.glb",
+     "original": "chairModernFrameCushion.glb",
+     "bytes": 18592,
+     "suits": [
+      "chair modern frame cushion"
+     ]
+    },
+    {
+     "id": "Chair.Rounded",
+     "file": "Props/KenneyFurnitureKit/Chair.Rounded.glb",
+     "original": "chairRounded.glb",
+     "bytes": 17156,
+     "suits": [
+      "chair rounded"
+     ]
+    },
+    {
+     "id": "Coat.Rack",
+     "file": "Props/KenneyFurnitureKit/Coat.Rack.glb",
+     "original": "coatRack.glb",
+     "bytes": 9948,
+     "suits": [
+      "coat rack"
+     ]
+    },
+    {
+     "id": "Coat.Rack.Standing",
+     "file": "Props/KenneyFurnitureKit/Coat.Rack.Standing.glb",
+     "original": "coatRackStanding.glb",
+     "bytes": 13288,
+     "suits": [
+      "coat rack standing"
+     ]
+    },
+    {
+     "id": "Computer.Keyboard",
+     "file": "Props/KenneyFurnitureKit/Computer.Keyboard.glb",
+     "original": "computerKeyboard.glb",
+     "bytes": 3476,
+     "suits": [
+      "computer keyboard"
+     ]
+    },
+    {
+     "id": "Computer.Mouse",
+     "file": "Props/KenneyFurnitureKit/Computer.Mouse.glb",
+     "original": "computerMouse.glb",
+     "bytes": 5868,
+     "suits": [
+      "computer mouse"
+     ]
+    },
+    {
+     "id": "Computer.Screen",
+     "file": "Props/KenneyFurnitureKit/Computer.Screen.glb",
+     "original": "computerScreen.glb",
+     "bytes": 6404,
+     "suits": [
+      "computer screen"
+     ]
+    },
+    {
+     "id": "Desk",
+     "file": "Props/KenneyFurnitureKit/Desk.glb",
+     "original": "desk.glb",
+     "bytes": 15048,
+     "suits": [
+      "desk"
+     ]
+    },
+    {
+     "id": "Desk.Corner",
+     "file": "Props/KenneyFurnitureKit/Desk.Corner.glb",
+     "original": "deskCorner.glb",
+     "bytes": 17984,
+     "suits": [
+      "desk corner"
+     ]
+    },
+    {
+     "id": "Doorway",
+     "file": "Props/KenneyFurnitureKit/Doorway.glb",
+     "original": "doorway.glb",
+     "bytes": 14532,
+     "suits": [
+      "doorway"
+     ]
+    },
+    {
+     "id": "Doorway.Front",
+     "file": "Props/KenneyFurnitureKit/Doorway.Front.glb",
+     "original": "doorwayFront.glb",
+     "bytes": 13016,
+     "suits": [
+      "doorway front"
+     ]
+    },
+    {
+     "id": "Doorway.Open",
+     "file": "Props/KenneyFurnitureKit/Doorway.Open.glb",
+     "original": "doorwayOpen.glb",
+     "bytes": 3256,
+     "suits": [
+      "doorway open"
+     ]
+    },
+    {
+     "id": "Dryer",
+     "file": "Props/KenneyFurnitureKit/Dryer.glb",
+     "original": "dryer.glb",
+     "bytes": 17760,
+     "suits": [
+      "dryer"
+     ]
+    },
+    {
+     "id": "Floor.Corner",
+     "file": "Props/KenneyFurnitureKit/Floor.Corner.glb",
+     "original": "floorCorner.glb",
+     "bytes": 2524,
+     "suits": [
+      "floor corner"
+     ]
+    },
+    {
+     "id": "Floor.Corner.Round",
+     "file": "Props/KenneyFurnitureKit/Floor.Corner.Round.glb",
+     "original": "floorCornerRound.glb",
+     "bytes": 5168,
+     "suits": [
+      "floor corner round"
+     ]
+    },
+    {
+     "id": "Floor.Full",
+     "file": "Props/KenneyFurnitureKit/Floor.Full.glb",
+     "original": "floorFull.glb",
+     "bytes": 2260,
+     "suits": [
+      "floor full"
+     ]
+    },
+    {
+     "id": "Floor.Half",
+     "file": "Props/KenneyFurnitureKit/Floor.Half.glb",
+     "original": "floorHalf.glb",
+     "bytes": 2264,
+     "suits": [
+      "floor half"
+     ]
+    },
+    {
+     "id": "Hood.Large",
+     "file": "Props/KenneyFurnitureKit/Hood.Large.glb",
+     "original": "hoodLarge.glb",
+     "bytes": 4652,
+     "suits": [
+      "hood large"
+     ]
+    },
+    {
+     "id": "Hood.Modern",
+     "file": "Props/KenneyFurnitureKit/Hood.Modern.glb",
+     "original": "hoodModern.glb",
+     "bytes": 3968,
+     "suits": [
+      "hood modern"
+     ]
+    },
+    {
+     "id": "Kitchen.Bar",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Bar.glb",
+     "original": "kitchenBar.glb",
+     "bytes": 6004,
+     "suits": [
+      "kitchen bar"
+     ]
+    },
+    {
+     "id": "Kitchen.Bar.End",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Bar.End.glb",
+     "original": "kitchenBarEnd.glb",
+     "bytes": 11084,
+     "suits": [
+      "kitchen bar end"
+     ]
+    },
+    {
+     "id": "Kitchen.Blender",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Blender.glb",
+     "original": "kitchenBlender.glb",
+     "bytes": 18728,
+     "suits": [
+      "kitchen blender"
+     ]
+    },
+    {
+     "id": "Kitchen.Cabinet",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Cabinet.glb",
+     "original": "kitchenCabinet.glb",
+     "bytes": 10444,
+     "suits": [
+      "kitchen cabinet"
+     ]
+    },
+    {
+     "id": "Kitchen.Cabinet.Corner.Inner",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Cabinet.Corner.Inner.glb",
+     "original": "kitchenCabinetCornerInner.glb",
+     "bytes": 5184,
+     "suits": [
+      "kitchen cabinet corner inner"
+     ]
+    },
+    {
+     "id": "Kitchen.Cabinet.Corner.Round",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Cabinet.Corner.Round.glb",
+     "original": "kitchenCabinetCornerRound.glb",
+     "bytes": 13656,
+     "suits": [
+      "kitchen cabinet corner round"
+     ]
+    },
+    {
+     "id": "Kitchen.Cabinet.Drawer",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Cabinet.Drawer.glb",
+     "original": "kitchenCabinetDrawer.glb",
+     "bytes": 15384,
+     "suits": [
+      "kitchen cabinet drawer"
+     ]
+    },
+    {
+     "id": "Kitchen.Cabinet.Upper",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Cabinet.Upper.glb",
+     "original": "kitchenCabinetUpper.glb",
+     "bytes": 8168,
+     "suits": [
+      "kitchen cabinet upper"
+     ]
+    },
+    {
+     "id": "Kitchen.Cabinet.Upper.Corner",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Cabinet.Upper.Corner.glb",
+     "original": "kitchenCabinetUpperCorner.glb",
+     "bytes": 13712,
+     "suits": [
+      "kitchen cabinet upper corner"
+     ]
+    },
+    {
+     "id": "Kitchen.Cabinet.Upper.Double",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Cabinet.Upper.Double.glb",
+     "original": "kitchenCabinetUpperDouble.glb",
+     "bytes": 18184,
+     "suits": [
+      "kitchen cabinet upper double"
+     ]
+    },
+    {
+     "id": "Kitchen.Cabinet.Upper.Low",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Cabinet.Upper.Low.glb",
+     "original": "kitchenCabinetUpperLow.glb",
+     "bytes": 7216,
+     "suits": [
+      "kitchen cabinet upper low"
+     ]
+    },
+    {
+     "id": "Kitchen.Coffee.Machine",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Coffee.Machine.glb",
+     "original": "kitchenCoffeeMachine.glb",
+     "bytes": 13332,
+     "suits": [
+      "kitchen coffee machine"
+     ]
+    },
+    {
+     "id": "Kitchen.Fridge",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Fridge.glb",
+     "original": "kitchenFridge.glb",
+     "bytes": 20116,
+     "suits": [
+      "kitchen fridge"
+     ]
+    },
+    {
+     "id": "Kitchen.Fridge.Built.In",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Fridge.Built.In.glb",
+     "original": "kitchenFridgeBuiltIn.glb",
+     "bytes": 22616,
+     "suits": [
+      "kitchen fridge built in"
+     ]
+    },
+    {
+     "id": "Kitchen.Fridge.Large",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Fridge.Large.glb",
+     "original": "kitchenFridgeLarge.glb",
+     "bytes": 30632,
+     "suits": [
+      "kitchen fridge large"
+     ]
+    },
+    {
+     "id": "Kitchen.Fridge.Small",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Fridge.Small.glb",
+     "original": "kitchenFridgeSmall.glb",
+     "bytes": 12988,
+     "suits": [
+      "kitchen fridge small"
+     ]
+    },
+    {
+     "id": "Kitchen.Microwave",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Microwave.glb",
+     "original": "kitchenMicrowave.glb",
+     "bytes": 11248,
+     "suits": [
+      "kitchen microwave"
+     ]
+    },
+    {
+     "id": "Kitchen.Sink",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Sink.glb",
+     "original": "kitchenSink.glb",
+     "bytes": 23480,
+     "suits": [
+      "kitchen sink"
+     ]
+    },
+    {
+     "id": "Kitchen.Stove",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Stove.glb",
+     "original": "kitchenStove.glb",
+     "bytes": 54324,
+     "suits": [
+      "kitchen stove"
+     ]
+    },
+    {
+     "id": "Kitchen.Stove.Electric",
+     "file": "Props/KenneyFurnitureKit/Kitchen.Stove.Electric.glb",
+     "original": "kitchenStoveElectric.glb",
+     "bytes": 18604,
+     "suits": [
+      "kitchen stove electric"
+     ]
+    },
+    {
+     "id": "Lamp.Round.Floor",
+     "file": "Props/KenneyFurnitureKit/Lamp.Round.Floor.glb",
+     "original": "lampRoundFloor.glb",
+     "bytes": 6600,
+     "suits": [
+      "lamp round floor"
+     ]
+    },
+    {
+     "id": "Lamp.Round.Table",
+     "file": "Props/KenneyFurnitureKit/Lamp.Round.Table.glb",
+     "original": "lampRoundTable.glb",
+     "bytes": 6604,
+     "suits": [
+      "lamp round table"
+     ]
+    },
+    {
+     "id": "Lamp.Square.Ceiling",
+     "file": "Props/KenneyFurnitureKit/Lamp.Square.Ceiling.glb",
+     "original": "lampSquareCeiling.glb",
+     "bytes": 5628,
+     "suits": [
+      "lamp square ceiling"
+     ]
+    },
+    {
+     "id": "Lamp.Square.Floor",
+     "file": "Props/KenneyFurnitureKit/Lamp.Square.Floor.glb",
+     "original": "lampSquareFloor.glb",
+     "bytes": 5624,
+     "suits": [
+      "lamp square floor"
+     ]
+    },
+    {
+     "id": "Lamp.Square.Table",
+     "file": "Props/KenneyFurnitureKit/Lamp.Square.Table.glb",
+     "original": "lampSquareTable.glb",
+     "bytes": 5624,
+     "suits": [
+      "lamp square table"
+     ]
+    },
+    {
+     "id": "Lamp.Wall",
+     "file": "Props/KenneyFurnitureKit/Lamp.Wall.glb",
+     "original": "lampWall.glb",
+     "bytes": 4828,
+     "suits": [
+      "lamp wall"
+     ]
+    },
+    {
+     "id": "Laptop",
+     "file": "Props/KenneyFurnitureKit/Laptop.glb",
+     "original": "laptop.glb",
+     "bytes": 5540,
+     "suits": [
+      "laptop"
+     ]
+    },
+    {
+     "id": "Lounge.Chair",
+     "file": "Props/KenneyFurnitureKit/Lounge.Chair.glb",
+     "original": "loungeChair.glb",
+     "bytes": 9648,
+     "suits": [
+      "lounge chair"
+     ]
+    },
+    {
+     "id": "Lounge.Chair.Relax",
+     "file": "Props/KenneyFurnitureKit/Lounge.Chair.Relax.glb",
+     "original": "loungeChairRelax.glb",
+     "bytes": 13904,
+     "suits": [
+      "lounge chair relax"
+     ]
+    },
+    {
+     "id": "Lounge.Design.Chair",
+     "file": "Props/KenneyFurnitureKit/Lounge.Design.Chair.glb",
+     "original": "loungeDesignChair.glb",
+     "bytes": 9136,
+     "suits": [
+      "lounge design chair"
+     ]
+    },
+    {
+     "id": "Lounge.Design.Sofa",
+     "file": "Props/KenneyFurnitureKit/Lounge.Design.Sofa.glb",
+     "original": "loungeDesignSofa.glb",
+     "bytes": 9128,
+     "suits": [
+      "lounge design sofa"
+     ]
+    },
+    {
+     "id": "Lounge.Design.Sofa.Corner",
+     "file": "Props/KenneyFurnitureKit/Lounge.Design.Sofa.Corner.glb",
+     "original": "loungeDesignSofaCorner.glb",
+     "bytes": 13744,
+     "suits": [
+      "lounge design sofa corner"
+     ]
+    },
+    {
+     "id": "Lounge.Sofa",
+     "file": "Props/KenneyFurnitureKit/Lounge.Sofa.glb",
+     "original": "loungeSofa.glb",
+     "bytes": 9644,
+     "suits": [
+      "lounge sofa"
+     ]
+    },
+    {
+     "id": "Lounge.Sofa.Corner",
+     "file": "Props/KenneyFurnitureKit/Lounge.Sofa.Corner.glb",
+     "original": "loungeSofaCorner.glb",
+     "bytes": 13412,
+     "suits": [
+      "lounge sofa corner"
+     ]
+    },
+    {
+     "id": "Lounge.Sofa.Long",
+     "file": "Props/KenneyFurnitureKit/Lounge.Sofa.Long.glb",
+     "original": "loungeSofaLong.glb",
+     "bytes": 13112,
+     "suits": [
+      "lounge sofa long"
+     ]
+    },
+    {
+     "id": "Lounge.Sofa.Ottoman",
+     "file": "Props/KenneyFurnitureKit/Lounge.Sofa.Ottoman.glb",
+     "original": "loungeSofaOttoman.glb",
+     "bytes": 6960,
+     "suits": [
+      "lounge sofa ottoman"
+     ]
+    },
+    {
+     "id": "Paneling",
+     "file": "Props/KenneyFurnitureKit/Paneling.glb",
+     "original": "paneling.glb",
+     "bytes": 3960,
+     "suits": [
+      "paneling"
+     ]
+    },
+    {
+     "id": "Pillow",
+     "file": "Props/KenneyFurnitureKit/Pillow.glb",
+     "original": "pillow.glb",
+     "bytes": 5044,
+     "suits": [
+      "pillow"
+     ]
+    },
+    {
+     "id": "Pillow.Blue",
+     "file": "Props/KenneyFurnitureKit/Pillow.Blue.glb",
+     "original": "pillowBlue.glb",
+     "bytes": 5056,
+     "suits": [
+      "pillow blue"
+     ]
+    },
+    {
+     "id": "Pillow.Blue.Long",
+     "file": "Props/KenneyFurnitureKit/Pillow.Blue.Long.glb",
+     "original": "pillowBlueLong.glb",
+     "bytes": 5088,
+     "suits": [
+      "pillow blue long"
+     ]
+    },
+    {
+     "id": "Pillow.Long",
+     "file": "Props/KenneyFurnitureKit/Pillow.Long.glb",
+     "original": "pillowLong.glb",
+     "bytes": 5072,
+     "suits": [
+      "pillow long"
+     ]
+    },
+    {
+     "id": "Plant.Small.1",
+     "file": "Props/KenneyFurnitureKit/Plant.Small.1.glb",
+     "original": "plantSmall1.glb",
+     "bytes": 8224,
+     "suits": [
+      "plant small 1"
+     ]
+    },
+    {
+     "id": "Plant.Small.2",
+     "file": "Props/KenneyFurnitureKit/Plant.Small.2.glb",
+     "original": "plantSmall2.glb",
+     "bytes": 12996,
+     "suits": [
+      "plant small 2"
+     ]
+    },
+    {
+     "id": "Plant.Small.3",
+     "file": "Props/KenneyFurnitureKit/Plant.Small.3.glb",
+     "original": "plantSmall3.glb",
+     "bytes": 8424,
+     "suits": [
+      "plant small 3"
+     ]
+    },
+    {
+     "id": "Potted.Plant",
+     "file": "Props/KenneyFurnitureKit/Potted.Plant.glb",
+     "original": "pottedPlant.glb",
+     "bytes": 7576,
+     "suits": [
+      "potted plant"
+     ]
+    },
+    {
+     "id": "Radio",
+     "file": "Props/KenneyFurnitureKit/Radio.glb",
+     "original": "radio.glb",
+     "bytes": 25020,
+     "suits": [
+      "radio"
+     ]
+    },
+    {
+     "id": "Rug.Doormat",
+     "file": "Props/KenneyFurnitureKit/Rug.Doormat.glb",
+     "original": "rugDoormat.glb",
+     "bytes": 13812,
+     "suits": [
+      "rug doormat"
+     ]
+    },
+    {
+     "id": "Rug.Rectangle",
+     "file": "Props/KenneyFurnitureKit/Rug.Rectangle.glb",
+     "original": "rugRectangle.glb",
+     "bytes": 3188,
+     "suits": [
+      "rug rectangle"
+     ]
+    },
+    {
+     "id": "Rug.Round",
+     "file": "Props/KenneyFurnitureKit/Rug.Round.glb",
+     "original": "rugRound.glb",
+     "bytes": 10164,
+     "suits": [
+      "rug round"
+     ]
+    },
+    {
+     "id": "Rug.Rounded",
+     "file": "Props/KenneyFurnitureKit/Rug.Rounded.glb",
+     "original": "rugRounded.glb",
+     "bytes": 10876,
+     "suits": [
+      "rug rounded"
+     ]
+    },
+    {
+     "id": "Rug.Square",
+     "file": "Props/KenneyFurnitureKit/Rug.Square.glb",
+     "original": "rugSquare.glb",
+     "bytes": 3180,
+     "suits": [
+      "rug square"
+     ]
+    },
+    {
+     "id": "Shower",
+     "file": "Props/KenneyFurnitureKit/Shower.glb",
+     "original": "shower.glb",
+     "bytes": 52020,
+     "suits": [
+      "shower"
+     ]
+    },
+    {
+     "id": "Shower.Round",
+     "file": "Props/KenneyFurnitureKit/Shower.Round.glb",
+     "original": "showerRound.glb",
+     "bytes": 72048,
+     "suits": [
+      "shower round"
+     ]
+    },
+    {
+     "id": "Side.Table",
+     "file": "Props/KenneyFurnitureKit/Side.Table.glb",
+     "original": "sideTable.glb",
+     "bytes": 8800,
+     "suits": [
+      "side table"
+     ]
+    },
+    {
+     "id": "Side.Table.Drawers",
+     "file": "Props/KenneyFurnitureKit/Side.Table.Drawers.glb",
+     "original": "sideTableDrawers.glb",
+     "bytes": 19072,
+     "suits": [
+      "side table drawers"
+     ]
+    },
+    {
+     "id": "Speaker",
+     "file": "Props/KenneyFurnitureKit/Speaker.glb",
+     "original": "speaker.glb",
+     "bytes": 15744,
+     "suits": [
+      "speaker"
+     ]
+    },
+    {
+     "id": "Speaker.Small",
+     "file": "Props/KenneyFurnitureKit/Speaker.Small.glb",
+     "original": "speakerSmall.glb",
+     "bytes": 15244,
+     "suits": [
+      "speaker small"
+     ]
+    },
+    {
+     "id": "Stairs",
+     "file": "Props/KenneyFurnitureKit/Stairs.glb",
+     "original": "stairs.glb",
+     "bytes": 21616,
+     "suits": [
+      "stairs"
+     ]
+    },
+    {
+     "id": "Stairs.Corner",
+     "file": "Props/KenneyFurnitureKit/Stairs.Corner.glb",
+     "original": "stairsCorner.glb",
+     "bytes": 21576,
+     "suits": [
+      "stairs corner"
+     ]
+    },
+    {
+     "id": "Stairs.Open",
+     "file": "Props/KenneyFurnitureKit/Stairs.Open.glb",
+     "original": "stairsOpen.glb",
+     "bytes": 39924,
+     "suits": [
+      "stairs open"
+     ]
+    },
+    {
+     "id": "Stairs.Open.Single",
+     "file": "Props/KenneyFurnitureKit/Stairs.Open.Single.glb",
+     "original": "stairsOpenSingle.glb",
+     "bytes": 24600,
+     "suits": [
+      "stairs open single"
+     ]
+    },
+    {
+     "id": "Stool.Bar",
+     "file": "Props/KenneyFurnitureKit/Stool.Bar.glb",
+     "original": "stoolBar.glb",
+     "bytes": 11816,
+     "suits": [
+      "stool bar"
+     ]
+    },
+    {
+     "id": "Stool.Bar.Square",
+     "file": "Props/KenneyFurnitureKit/Stool.Bar.Square.glb",
+     "original": "stoolBarSquare.glb",
+     "bytes": 9784,
+     "suits": [
+      "stool bar square"
+     ]
+    },
+    {
+     "id": "Table",
+     "file": "Props/KenneyFurnitureKit/Table.glb",
+     "original": "table.glb",
+     "bytes": 8196,
+     "suits": [
+      "table"
+     ]
+    },
+    {
+     "id": "Table.Cloth",
+     "file": "Props/KenneyFurnitureKit/Table.Cloth.glb",
+     "original": "tableCloth.glb",
+     "bytes": 9920,
+     "suits": [
+      "table cloth"
+     ]
+    },
+    {
+     "id": "Table.Coffee",
+     "file": "Props/KenneyFurnitureKit/Table.Coffee.glb",
+     "original": "tableCoffee.glb",
+     "bytes": 8256,
+     "suits": [
+      "table coffee"
+     ]
+    },
+    {
+     "id": "Table.Coffee.Glass",
+     "file": "Props/KenneyFurnitureKit/Table.Coffee.Glass.glb",
+     "original": "tableCoffeeGlass.glb",
+     "bytes": 9428,
+     "suits": [
+      "table coffee glass"
+     ]
+    },
+    {
+     "id": "Table.Coffee.Glass.Square",
+     "file": "Props/KenneyFurnitureKit/Table.Coffee.Glass.Square.glb",
+     "original": "tableCoffeeGlassSquare.glb",
+     "bytes": 9448,
+     "suits": [
+      "table coffee glass square"
+     ]
+    },
+    {
+     "id": "Table.Coffee.Square",
+     "file": "Props/KenneyFurnitureKit/Table.Coffee.Square.glb",
+     "original": "tableCoffeeSquare.glb",
+     "bytes": 8276,
+     "suits": [
+      "table coffee square"
+     ]
+    },
+    {
+     "id": "Table.Cross",
+     "file": "Props/KenneyFurnitureKit/Table.Cross.glb",
+     "original": "tableCross.glb",
+     "bytes": 12140,
+     "suits": [
+      "table cross"
+     ]
+    },
+    {
+     "id": "Table.Cross.Cloth",
+     "file": "Props/KenneyFurnitureKit/Table.Cross.Cloth.glb",
+     "original": "tableCrossCloth.glb",
+     "bytes": 13852,
+     "suits": [
+      "table cross cloth"
+     ]
+    },
+    {
+     "id": "Table.Glass",
+     "file": "Props/KenneyFurnitureKit/Table.Glass.glb",
+     "original": "tableGlass.glb",
+     "bytes": 9848,
+     "suits": [
+      "table glass"
+     ]
+    },
+    {
+     "id": "Table.Round",
+     "file": "Props/KenneyFurnitureKit/Table.Round.glb",
+     "original": "tableRound.glb",
+     "bytes": 6444,
+     "suits": [
+      "table round"
+     ]
+    },
+    {
+     "id": "Television.Antenna",
+     "file": "Props/KenneyFurnitureKit/Television.Antenna.glb",
+     "original": "televisionAntenna.glb",
+     "bytes": 4500,
+     "suits": [
+      "television antenna"
+     ]
+    },
+    {
+     "id": "Television.Modern",
+     "file": "Props/KenneyFurnitureKit/Television.Modern.glb",
+     "original": "televisionModern.glb",
+     "bytes": 6368,
+     "suits": [
+      "television modern"
+     ]
+    },
+    {
+     "id": "Television.Vintage",
+     "file": "Props/KenneyFurnitureKit/Television.Vintage.glb",
+     "original": "televisionVintage.glb",
+     "bytes": 19392,
+     "suits": [
+      "television vintage"
+     ]
+    },
+    {
+     "id": "Toaster",
+     "file": "Props/KenneyFurnitureKit/Toaster.glb",
+     "original": "toaster.glb",
+     "bytes": 14924,
+     "suits": [
+      "toaster"
+     ]
+    },
+    {
+     "id": "Toilet",
+     "file": "Props/KenneyFurnitureKit/Toilet.glb",
+     "original": "toilet.glb",
+     "bytes": 18112,
+     "suits": [
+      "toilet"
+     ]
+    },
+    {
+     "id": "Toilet.Square",
+     "file": "Props/KenneyFurnitureKit/Toilet.Square.glb",
+     "original": "toiletSquare.glb",
+     "bytes": 17548,
+     "suits": [
+      "toilet square"
+     ]
+    },
+    {
+     "id": "Trashcan",
+     "file": "Props/KenneyFurnitureKit/Trashcan.glb",
+     "original": "trashcan.glb",
+     "bytes": 6452,
+     "suits": [
+      "trashcan"
+     ]
+    },
+    {
+     "id": "Wall",
+     "file": "Props/KenneyFurnitureKit/Wall.glb",
+     "original": "wall.glb",
+     "bytes": 3340,
+     "suits": [
+      "wall"
+     ]
+    },
+    {
+     "id": "Wall.Corner",
+     "file": "Props/KenneyFurnitureKit/Wall.Corner.glb",
+     "original": "wallCorner.glb",
+     "bytes": 4460,
+     "suits": [
+      "wall corner"
+     ]
+    },
+    {
+     "id": "Wall.Corner.Rond",
+     "file": "Props/KenneyFurnitureKit/Wall.Corner.Rond.glb",
+     "original": "wallCornerRond.glb",
+     "bytes": 10448,
+     "suits": [
+      "wall corner rond"
+     ]
+    },
+    {
+     "id": "Wall.Doorway",
+     "file": "Props/KenneyFurnitureKit/Wall.Doorway.glb",
+     "original": "wallDoorway.glb",
+     "bytes": 6444,
+     "suits": [
+      "wall doorway"
+     ]
+    },
+    {
+     "id": "Wall.Doorway.Wide",
+     "file": "Props/KenneyFurnitureKit/Wall.Doorway.Wide.glb",
+     "original": "wallDoorwayWide.glb",
+     "bytes": 6468,
+     "suits": [
+      "wall doorway wide"
+     ]
+    },
+    {
+     "id": "Wall.Half",
+     "file": "Props/KenneyFurnitureKit/Wall.Half.glb",
+     "original": "wallHalf.glb",
+     "bytes": 3348,
+     "suits": [
+      "wall half"
+     ]
+    },
+    {
+     "id": "Wall.Window",
+     "file": "Props/KenneyFurnitureKit/Wall.Window.glb",
+     "original": "wallWindow.glb",
+     "bytes": 10744,
+     "suits": [
+      "wall window"
+     ]
+    },
+    {
+     "id": "Wall.Window.Slide",
+     "file": "Props/KenneyFurnitureKit/Wall.Window.Slide.glb",
+     "original": "wallWindowSlide.glb",
+     "bytes": 14564,
+     "suits": [
+      "wall window slide"
+     ]
+    },
+    {
+     "id": "Washer",
+     "file": "Props/KenneyFurnitureKit/Washer.glb",
+     "original": "washer.glb",
+     "bytes": 48104,
+     "suits": [
+      "washer"
+     ]
+    },
+    {
+     "id": "Washer.Dryer.Stacked",
+     "file": "Props/KenneyFurnitureKit/Washer.Dryer.Stacked.glb",
+     "original": "washerDryerStacked.glb",
+     "bytes": 64060,
+     "suits": [
+      "washer dryer stacked"
+     ]
+    }
+   ]
+  },
+  {
+   "pack": "KenneyCityKitCommercial",
+   "title": "City Kit (Commercial)",
+   "family": "Props",
+   "folder": "Props/KenneyCityKitCommercial",
+   "creator": "Kenney (www.kenney.nl)",
+   "source": {
+    "provider": "Kenney",
+    "page": "https://kenney.nl/assets/city-kit-commercial"
+   },
+   "licence": "CC0 1.0 Universal (public domain)",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "suits": [
+    "city street",
+    "shops",
+    "office buildings",
+    "downtown skyline"
+   ],
+   "count": 41,
+   "bytes": 3750774,
+   "texture": "Props/KenneyCityKitCommercial/Textures/Colormap.png",
+   "notes": "GLB files renamed to Title.Case; the texture link inside each model was changed from Textures/colormap.png to Textures/Colormap.png and nothing else.",
+   "items": [
+    {
+     "id": "Building.A",
+     "file": "Props/KenneyCityKitCommercial/Building.A.glb",
+     "original": "building-a.glb",
+     "bytes": 108932,
+     "suits": [
+      "building a"
+     ]
+    },
+    {
+     "id": "Building.B",
+     "file": "Props/KenneyCityKitCommercial/Building.B.glb",
+     "original": "building-b.glb",
+     "bytes": 106404,
+     "suits": [
+      "building b"
+     ]
+    },
+    {
+     "id": "Building.C",
+     "file": "Props/KenneyCityKitCommercial/Building.C.glb",
+     "original": "building-c.glb",
+     "bytes": 102784,
+     "suits": [
+      "building c"
+     ]
+    },
+    {
+     "id": "Building.D",
+     "file": "Props/KenneyCityKitCommercial/Building.D.glb",
+     "original": "building-d.glb",
+     "bytes": 95156,
+     "suits": [
+      "building d"
+     ]
+    },
+    {
+     "id": "Building.E",
+     "file": "Props/KenneyCityKitCommercial/Building.E.glb",
+     "original": "building-e.glb",
+     "bytes": 128200,
+     "suits": [
+      "building e"
+     ]
+    },
+    {
+     "id": "Building.F",
+     "file": "Props/KenneyCityKitCommercial/Building.F.glb",
+     "original": "building-f.glb",
+     "bytes": 148944,
+     "suits": [
+      "building f"
+     ]
+    },
+    {
+     "id": "Building.G",
+     "file": "Props/KenneyCityKitCommercial/Building.G.glb",
+     "original": "building-g.glb",
+     "bytes": 166352,
+     "suits": [
+      "building g"
+     ]
+    },
+    {
+     "id": "Building.H",
+     "file": "Props/KenneyCityKitCommercial/Building.H.glb",
+     "original": "building-h.glb",
+     "bytes": 127380,
+     "suits": [
+      "building h"
+     ]
+    },
+    {
+     "id": "Building.I",
+     "file": "Props/KenneyCityKitCommercial/Building.I.glb",
+     "original": "building-i.glb",
+     "bytes": 209724,
+     "suits": [
+      "building i"
+     ]
+    },
+    {
+     "id": "Building.J",
+     "file": "Props/KenneyCityKitCommercial/Building.J.glb",
+     "original": "building-j.glb",
+     "bytes": 440644,
+     "suits": [
+      "building j"
+     ]
+    },
+    {
+     "id": "Building.K",
+     "file": "Props/KenneyCityKitCommercial/Building.K.glb",
+     "original": "building-k.glb",
+     "bytes": 246972,
+     "suits": [
+      "building k"
+     ]
+    },
+    {
+     "id": "Building.L",
+     "file": "Props/KenneyCityKitCommercial/Building.L.glb",
+     "original": "building-l.glb",
+     "bytes": 290508,
+     "suits": [
+      "building l"
+     ]
+    },
+    {
+     "id": "Building.M",
+     "file": "Props/KenneyCityKitCommercial/Building.M.glb",
+     "original": "building-m.glb",
+     "bytes": 300996,
+     "suits": [
+      "building m"
+     ]
+    },
+    {
+     "id": "Building.N",
+     "file": "Props/KenneyCityKitCommercial/Building.N.glb",
+     "original": "building-n.glb",
+     "bytes": 341228,
+     "suits": [
+      "building n"
+     ]
+    },
+    {
+     "id": "Building.Skyscraper.A",
+     "file": "Props/KenneyCityKitCommercial/Building.Skyscraper.A.glb",
+     "original": "building-skyscraper-a.glb",
+     "bytes": 111328,
+     "suits": [
+      "building skyscraper a"
+     ]
+    },
+    {
+     "id": "Building.Skyscraper.B",
+     "file": "Props/KenneyCityKitCommercial/Building.Skyscraper.B.glb",
+     "original": "building-skyscraper-b.glb",
+     "bytes": 138476,
+     "suits": [
+      "building skyscraper b"
+     ]
+    },
+    {
+     "id": "Building.Skyscraper.C",
+     "file": "Props/KenneyCityKitCommercial/Building.Skyscraper.C.glb",
+     "original": "building-skyscraper-c.glb",
+     "bytes": 149516,
+     "suits": [
+      "building skyscraper c"
+     ]
+    },
+    {
+     "id": "Building.Skyscraper.D",
+     "file": "Props/KenneyCityKitCommercial/Building.Skyscraper.D.glb",
+     "original": "building-skyscraper-d.glb",
+     "bytes": 167144,
+     "suits": [
+      "building skyscraper d"
+     ]
+    },
+    {
+     "id": "Building.Skyscraper.E",
+     "file": "Props/KenneyCityKitCommercial/Building.Skyscraper.E.glb",
+     "original": "building-skyscraper-e.glb",
+     "bytes": 101872,
+     "suits": [
+      "building skyscraper e"
+     ]
+    },
+    {
+     "id": "Detail.Awning.Wide",
+     "file": "Props/KenneyCityKitCommercial/Detail.Awning.Wide.glb",
+     "original": "detail-awning-wide.glb",
+     "bytes": 5536,
+     "suits": [
+      "detail awning wide"
+     ]
+    },
+    {
+     "id": "Detail.Awning",
+     "file": "Props/KenneyCityKitCommercial/Detail.Awning.glb",
+     "original": "detail-awning.glb",
+     "bytes": 5524,
+     "suits": [
+      "detail awning"
+     ]
+    },
+    {
+     "id": "Detail.Overhang.Wide",
+     "file": "Props/KenneyCityKitCommercial/Detail.Overhang.Wide.glb",
+     "original": "detail-overhang-wide.glb",
+     "bytes": 6712,
+     "suits": [
+      "detail overhang wide"
+     ]
+    },
+    {
+     "id": "Detail.Overhang",
+     "file": "Props/KenneyCityKitCommercial/Detail.Overhang.glb",
+     "original": "detail-overhang.glb",
+     "bytes": 6700,
+     "suits": [
+      "detail overhang"
+     ]
+    },
+    {
+     "id": "Detail.Parasol.A",
+     "file": "Props/KenneyCityKitCommercial/Detail.Parasol.A.glb",
+     "original": "detail-parasol-a.glb",
+     "bytes": 10316,
+     "suits": [
+      "detail parasol a"
+     ]
+    },
+    {
+     "id": "Detail.Parasol.B",
+     "file": "Props/KenneyCityKitCommercial/Detail.Parasol.B.glb",
+     "original": "detail-parasol-b.glb",
+     "bytes": 12120,
+     "suits": [
+      "detail parasol b"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.A",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.A.glb",
+     "original": "low-detail-building-a.glb",
+     "bytes": 14340,
+     "suits": [
+      "low detail building a"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.B",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.B.glb",
+     "original": "low-detail-building-b.glb",
+     "bytes": 16336,
+     "suits": [
+      "low detail building b"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.C",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.C.glb",
+     "original": "low-detail-building-c.glb",
+     "bytes": 12280,
+     "suits": [
+      "low detail building c"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.D",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.D.glb",
+     "original": "low-detail-building-d.glb",
+     "bytes": 8716,
+     "suits": [
+      "low detail building d"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.E",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.E.glb",
+     "original": "low-detail-building-e.glb",
+     "bytes": 8232,
+     "suits": [
+      "low detail building e"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.F",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.F.glb",
+     "original": "low-detail-building-f.glb",
+     "bytes": 6932,
+     "suits": [
+      "low detail building f"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.G",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.G.glb",
+     "original": "low-detail-building-g.glb",
+     "bytes": 16320,
+     "suits": [
+      "low detail building g"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.H",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.H.glb",
+     "original": "low-detail-building-h.glb",
+     "bytes": 26812,
+     "suits": [
+      "low detail building h"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.I",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.I.glb",
+     "original": "low-detail-building-i.glb",
+     "bytes": 11768,
+     "suits": [
+      "low detail building i"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.J",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.J.glb",
+     "original": "low-detail-building-j.glb",
+     "bytes": 16400,
+     "suits": [
+      "low detail building j"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.K",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.K.glb",
+     "original": "low-detail-building-k.glb",
+     "bytes": 7556,
+     "suits": [
+      "low detail building k"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.L",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.L.glb",
+     "original": "low-detail-building-l.glb",
+     "bytes": 12128,
+     "suits": [
+      "low detail building l"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.M",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.M.glb",
+     "original": "low-detail-building-m.glb",
+     "bytes": 15112,
+     "suits": [
+      "low detail building m"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.N",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.N.glb",
+     "original": "low-detail-building-n.glb",
+     "bytes": 5904,
+     "suits": [
+      "low detail building n"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.Wide.A",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.Wide.A.glb",
+     "original": "low-detail-building-wide-a.glb",
+     "bytes": 12732,
+     "suits": [
+      "low detail building wide a"
+     ]
+    },
+    {
+     "id": "Low.Detail.Building.Wide.B",
+     "file": "Props/KenneyCityKitCommercial/Low.Detail.Building.Wide.B.glb",
+     "original": "low-detail-building-wide-b.glb",
+     "bytes": 18736,
+     "suits": [
+      "low detail building wide b"
+     ]
+    }
+   ]
+  },
+  {
+   "pack": "KenneyCityKitSuburban",
+   "title": "City Kit (Suburban)",
+   "family": "Props",
+   "folder": "Props/KenneyCityKitSuburban",
+   "creator": "Kenney (www.kenney.nl)",
+   "source": {
+    "provider": "Kenney",
+    "page": "https://kenney.nl/assets/city-kit-suburban"
+   },
+   "licence": "CC0 1.0 Universal (public domain)",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "suits": [
+    "suburban street",
+    "houses",
+    "front yards",
+    "fences and trees"
+   ],
+   "count": 40,
+   "bytes": 2621312,
+   "texture": "Props/KenneyCityKitSuburban/Textures/Colormap.png",
+   "notes": "GLB files renamed to Title.Case; the texture link inside each model was changed from Textures/colormap.png to Textures/Colormap.png and nothing else.",
+   "items": [
+    {
+     "id": "Building.Type.A",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.A.glb",
+     "original": "building-type-a.glb",
+     "bytes": 98596,
+     "suits": [
+      "building type a"
+     ]
+    },
+    {
+     "id": "Building.Type.B",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.B.glb",
+     "original": "building-type-b.glb",
+     "bytes": 146712,
+     "suits": [
+      "building type b"
+     ]
+    },
+    {
+     "id": "Building.Type.C",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.C.glb",
+     "original": "building-type-c.glb",
+     "bytes": 99584,
+     "suits": [
+      "building type c"
+     ]
+    },
+    {
+     "id": "Building.Type.D",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.D.glb",
+     "original": "building-type-d.glb",
+     "bytes": 147360,
+     "suits": [
+      "building type d"
+     ]
+    },
+    {
+     "id": "Building.Type.E",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.E.glb",
+     "original": "building-type-e.glb",
+     "bytes": 145500,
+     "suits": [
+      "building type e"
+     ]
+    },
+    {
+     "id": "Building.Type.F",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.F.glb",
+     "original": "building-type-f.glb",
+     "bytes": 138528,
+     "suits": [
+      "building type f"
+     ]
+    },
+    {
+     "id": "Building.Type.G",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.G.glb",
+     "original": "building-type-g.glb",
+     "bytes": 93588,
+     "suits": [
+      "building type g"
+     ]
+    },
+    {
+     "id": "Building.Type.H",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.H.glb",
+     "original": "building-type-h.glb",
+     "bytes": 65360,
+     "suits": [
+      "building type h"
+     ]
+    },
+    {
+     "id": "Building.Type.I",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.I.glb",
+     "original": "building-type-i.glb",
+     "bytes": 69764,
+     "suits": [
+      "building type i"
+     ]
+    },
+    {
+     "id": "Building.Type.J",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.J.glb",
+     "original": "building-type-j.glb",
+     "bytes": 99508,
+     "suits": [
+      "building type j"
+     ]
+    },
+    {
+     "id": "Building.Type.K",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.K.glb",
+     "original": "building-type-k.glb",
+     "bytes": 89148,
+     "suits": [
+      "building type k"
+     ]
+    },
+    {
+     "id": "Building.Type.L",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.L.glb",
+     "original": "building-type-l.glb",
+     "bytes": 109228,
+     "suits": [
+      "building type l"
+     ]
+    },
+    {
+     "id": "Building.Type.M",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.M.glb",
+     "original": "building-type-m.glb",
+     "bytes": 96988,
+     "suits": [
+      "building type m"
+     ]
+    },
+    {
+     "id": "Building.Type.N",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.N.glb",
+     "original": "building-type-n.glb",
+     "bytes": 139456,
+     "suits": [
+      "building type n"
+     ]
+    },
+    {
+     "id": "Building.Type.O",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.O.glb",
+     "original": "building-type-o.glb",
+     "bytes": 114416,
+     "suits": [
+      "building type o"
+     ]
+    },
+    {
+     "id": "Building.Type.P",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.P.glb",
+     "original": "building-type-p.glb",
+     "bytes": 109252,
+     "suits": [
+      "building type p"
+     ]
+    },
+    {
+     "id": "Building.Type.Q",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.Q.glb",
+     "original": "building-type-q.glb",
+     "bytes": 98628,
+     "suits": [
+      "building type q"
+     ]
+    },
+    {
+     "id": "Building.Type.R",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.R.glb",
+     "original": "building-type-r.glb",
+     "bytes": 88540,
+     "suits": [
+      "building type r"
+     ]
+    },
+    {
+     "id": "Building.Type.S",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.S.glb",
+     "original": "building-type-s.glb",
+     "bytes": 103168,
+     "suits": [
+      "building type s"
+     ]
+    },
+    {
+     "id": "Building.Type.T",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.T.glb",
+     "original": "building-type-t.glb",
+     "bytes": 167508,
+     "suits": [
+      "building type t"
+     ]
+    },
+    {
+     "id": "Building.Type.U",
+     "file": "Props/KenneyCityKitSuburban/Building.Type.U.glb",
+     "original": "building-type-u.glb",
+     "bytes": 117904,
+     "suits": [
+      "building type u"
+     ]
+    },
+    {
+     "id": "Driveway.Long",
+     "file": "Props/KenneyCityKitSuburban/Driveway.Long.glb",
+     "original": "driveway-long.glb",
+     "bytes": 2952,
+     "suits": [
+      "driveway long"
+     ]
+    },
+    {
+     "id": "Driveway.Short",
+     "file": "Props/KenneyCityKitSuburban/Driveway.Short.glb",
+     "original": "driveway-short.glb",
+     "bytes": 2952,
+     "suits": [
+      "driveway short"
+     ]
+    },
+    {
+     "id": "Fence.1.X.2",
+     "file": "Props/KenneyCityKitSuburban/Fence.1.X.2.glb",
+     "original": "fence-1x2.glb",
+     "bytes": 16492,
+     "suits": [
+      "fence 1 x 2"
+     ]
+    },
+    {
+     "id": "Fence.1.X.3",
+     "file": "Props/KenneyCityKitSuburban/Fence.1.X.3.glb",
+     "original": "fence-1x3.glb",
+     "bytes": 21028,
+     "suits": [
+      "fence 1 x 3"
+     ]
+    },
+    {
+     "id": "Fence.1.X.4",
+     "file": "Props/KenneyCityKitSuburban/Fence.1.X.4.glb",
+     "original": "fence-1x4.glb",
+     "bytes": 25540,
+     "suits": [
+      "fence 1 x 4"
+     ]
+    },
+    {
+     "id": "Fence.2.X.2",
+     "file": "Props/KenneyCityKitSuburban/Fence.2.X.2.glb",
+     "original": "fence-2x2.glb",
+     "bytes": 23872,
+     "suits": [
+      "fence 2 x 2"
+     ]
+    },
+    {
+     "id": "Fence.2.X.3",
+     "file": "Props/KenneyCityKitSuburban/Fence.2.X.3.glb",
+     "original": "fence-2x3.glb",
+     "bytes": 28408,
+     "suits": [
+      "fence 2 x 3"
+     ]
+    },
+    {
+     "id": "Fence.3.X.2",
+     "file": "Props/KenneyCityKitSuburban/Fence.3.X.2.glb",
+     "original": "fence-3x2.glb",
+     "bytes": 31276,
+     "suits": [
+      "fence 3 x 2"
+     ]
+    },
+    {
+     "id": "Fence.3.X.3",
+     "file": "Props/KenneyCityKitSuburban/Fence.3.X.3.glb",
+     "original": "fence-3x3.glb",
+     "bytes": 35812,
+     "suits": [
+      "fence 3 x 3"
+     ]
+    },
+    {
+     "id": "Fence.Low",
+     "file": "Props/KenneyCityKitSuburban/Fence.Low.glb",
+     "original": "fence-low.glb",
+     "bytes": 18548,
+     "suits": [
+      "fence low"
+     ]
+    },
+    {
+     "id": "Fence",
+     "file": "Props/KenneyCityKitSuburban/Fence.glb",
+     "original": "fence.glb",
+     "bytes": 9668,
+     "suits": [
+      "fence"
+     ]
+    },
+    {
+     "id": "Path.Long",
+     "file": "Props/KenneyCityKitSuburban/Path.Long.glb",
+     "original": "path-long.glb",
+     "bytes": 2940,
+     "suits": [
+      "path long"
+     ]
+    },
+    {
+     "id": "Path.Short",
+     "file": "Props/KenneyCityKitSuburban/Path.Short.glb",
+     "original": "path-short.glb",
+     "bytes": 2940,
+     "suits": [
+      "path short"
+     ]
+    },
+    {
+     "id": "Path.Stones.Long",
+     "file": "Props/KenneyCityKitSuburban/Path.Stones.Long.glb",
+     "original": "path-stones-long.glb",
+     "bytes": 6656,
+     "suits": [
+      "path stones long"
+     ]
+    },
+    {
+     "id": "Path.Stones.Messy",
+     "file": "Props/KenneyCityKitSuburban/Path.Stones.Messy.glb",
+     "original": "path-stones-messy.glb",
+     "bytes": 5468,
+     "suits": [
+      "path stones messy"
+     ]
+    },
+    {
+     "id": "Path.Stones.Short",
+     "file": "Props/KenneyCityKitSuburban/Path.Stones.Short.glb",
+     "original": "path-stones-short.glb",
+     "bytes": 4276,
+     "suits": [
+      "path stones short"
+     ]
+    },
+    {
+     "id": "Planter",
+     "file": "Props/KenneyCityKitSuburban/Planter.glb",
+     "original": "planter.glb",
+     "bytes": 20356,
+     "suits": [
+      "planter"
+     ]
+    },
+    {
+     "id": "Tree.Large",
+     "file": "Props/KenneyCityKitSuburban/Tree.Large.glb",
+     "original": "tree-large.glb",
+     "bytes": 5804,
+     "suits": [
+      "tree large"
+     ]
+    },
+    {
+     "id": "Tree.Small",
+     "file": "Props/KenneyCityKitSuburban/Tree.Small.glb",
+     "original": "tree-small.glb",
+     "bytes": 5804,
+     "suits": [
+      "tree small"
+     ]
+    }
+   ]
+  },
+  {
+   "pack": "KenneyFoodKit",
+   "title": "Food Kit",
+   "family": "Props",
+   "folder": "Props/KenneyFoodKit",
+   "creator": "Kenney (www.kenney.nl)",
+   "source": {
+    "provider": "Kenney",
+    "page": "https://kenney.nl/assets/food-kit"
+   },
+   "licence": "CC0 1.0 Universal (public domain)",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "suits": [
+    "kitchen props",
+    "restaurant",
+    "bakery",
+    "market stall",
+    "picnic",
+    "food fight"
+   ],
+   "count": 200,
+   "bytes": 3367031,
+   "texture": "Props/KenneyFoodKit/Textures/Colormap.png",
+   "notes": "GLB files renamed to Title.Case; the texture link inside each model was changed from Textures/colormap.png to Textures/Colormap.png and nothing else.",
+   "items": [
+    {
+     "id": "Advocado.Half",
+     "file": "Props/KenneyFoodKit/Advocado.Half.glb",
+     "original": "advocado-half.glb",
+     "bytes": 11212,
+     "suits": [
+      "advocado half"
+     ]
+    },
+    {
+     "id": "Apple.Half",
+     "file": "Props/KenneyFoodKit/Apple.Half.glb",
+     "original": "apple-half.glb",
+     "bytes": 10936,
+     "suits": [
+      "apple half"
+     ]
+    },
+    {
+     "id": "Apple",
+     "file": "Props/KenneyFoodKit/Apple.glb",
+     "original": "apple.glb",
+     "bytes": 14364,
+     "suits": [
+      "apple"
+     ]
+    },
+    {
+     "id": "Avocado",
+     "file": "Props/KenneyFoodKit/Avocado.glb",
+     "original": "avocado.glb",
+     "bytes": 6064,
+     "suits": [
+      "avocado"
+     ]
+    },
+    {
+     "id": "Bacon.Raw",
+     "file": "Props/KenneyFoodKit/Bacon.Raw.glb",
+     "original": "bacon-raw.glb",
+     "bytes": 5704,
+     "suits": [
+      "bacon raw"
+     ]
+    },
+    {
+     "id": "Bacon",
+     "file": "Props/KenneyFoodKit/Bacon.glb",
+     "original": "bacon.glb",
+     "bytes": 5692,
+     "suits": [
+      "bacon"
+     ]
+    },
+    {
+     "id": "Bag.Flat",
+     "file": "Props/KenneyFoodKit/Bag.Flat.glb",
+     "original": "bag-flat.glb",
+     "bytes": 11276,
+     "suits": [
+      "bag flat"
+     ]
+    },
+    {
+     "id": "Bag",
+     "file": "Props/KenneyFoodKit/Bag.glb",
+     "original": "bag.glb",
+     "bytes": 6396,
+     "suits": [
+      "bag"
+     ]
+    },
+    {
+     "id": "Banana",
+     "file": "Props/KenneyFoodKit/Banana.glb",
+     "original": "banana.glb",
+     "bytes": 12336,
+     "suits": [
+      "banana"
+     ]
+    },
+    {
+     "id": "Barrel",
+     "file": "Props/KenneyFoodKit/Barrel.glb",
+     "original": "barrel.glb",
+     "bytes": 26808,
+     "suits": [
+      "barrel"
+     ]
+    },
+    {
+     "id": "Beet",
+     "file": "Props/KenneyFoodKit/Beet.glb",
+     "original": "beet.glb",
+     "bytes": 10368,
+     "suits": [
+      "beet"
+     ]
+    },
+    {
+     "id": "Bottle.Ketchup",
+     "file": "Props/KenneyFoodKit/Bottle.Ketchup.glb",
+     "original": "bottle-ketchup.glb",
+     "bytes": 9612,
+     "suits": [
+      "bottle ketchup"
+     ]
+    },
+    {
+     "id": "Bottle.Musterd",
+     "file": "Props/KenneyFoodKit/Bottle.Musterd.glb",
+     "original": "bottle-musterd.glb",
+     "bytes": 9612,
+     "suits": [
+      "bottle musterd"
+     ]
+    },
+    {
+     "id": "Bottle.Oil",
+     "file": "Props/KenneyFoodKit/Bottle.Oil.glb",
+     "original": "bottle-oil.glb",
+     "bytes": 10492,
+     "suits": [
+      "bottle oil"
+     ]
+    },
+    {
+     "id": "Bowl.Broth",
+     "file": "Props/KenneyFoodKit/Bowl.Broth.glb",
+     "original": "bowl-broth.glb",
+     "bytes": 16608,
+     "suits": [
+      "bowl broth"
+     ]
+    },
+    {
+     "id": "Bowl.Cereal",
+     "file": "Props/KenneyFoodKit/Bowl.Cereal.glb",
+     "original": "bowl-cereal.glb",
+     "bytes": 12464,
+     "suits": [
+      "bowl cereal"
+     ]
+    },
+    {
+     "id": "Bowl.Soup",
+     "file": "Props/KenneyFoodKit/Bowl.Soup.glb",
+     "original": "bowl-soup.glb",
+     "bytes": 11184,
+     "suits": [
+      "bowl soup"
+     ]
+    },
+    {
+     "id": "Bowl",
+     "file": "Props/KenneyFoodKit/Bowl.glb",
+     "original": "bowl.glb",
+     "bytes": 6336,
+     "suits": [
+      "bowl"
+     ]
+    },
+    {
+     "id": "Bread",
+     "file": "Props/KenneyFoodKit/Bread.glb",
+     "original": "bread.glb",
+     "bytes": 9464,
+     "suits": [
+      "bread"
+     ]
+    },
+    {
+     "id": "Broccoli",
+     "file": "Props/KenneyFoodKit/Broccoli.glb",
+     "original": "broccoli.glb",
+     "bytes": 20440,
+     "suits": [
+      "broccoli"
+     ]
+    },
+    {
+     "id": "Burger.Cheese.Double",
+     "file": "Props/KenneyFoodKit/Burger.Cheese.Double.glb",
+     "original": "burger-cheese-double.glb",
+     "bytes": 44364,
+     "suits": [
+      "burger cheese double"
+     ]
+    },
+    {
+     "id": "Burger.Cheese",
+     "file": "Props/KenneyFoodKit/Burger.Cheese.glb",
+     "original": "burger-cheese.glb",
+     "bytes": 25868,
+     "suits": [
+      "burger cheese"
+     ]
+    },
+    {
+     "id": "Burger.Double",
+     "file": "Props/KenneyFoodKit/Burger.Double.glb",
+     "original": "burger-double.glb",
+     "bytes": 55596,
+     "suits": [
+      "burger double"
+     ]
+    },
+    {
+     "id": "Burger",
+     "file": "Props/KenneyFoodKit/Burger.glb",
+     "original": "burger.glb",
+     "bytes": 34484,
+     "suits": [
+      "burger"
+     ]
+    },
+    {
+     "id": "Cabbage",
+     "file": "Props/KenneyFoodKit/Cabbage.glb",
+     "original": "cabbage.glb",
+     "bytes": 15348,
+     "suits": [
+      "cabbage"
+     ]
+    },
+    {
+     "id": "Cake.Birthday",
+     "file": "Props/KenneyFoodKit/Cake.Birthday.glb",
+     "original": "cake-birthday.glb",
+     "bytes": 115280,
+     "suits": [
+      "cake birthday"
+     ]
+    },
+    {
+     "id": "Cake.Slicer",
+     "file": "Props/KenneyFoodKit/Cake.Slicer.glb",
+     "original": "cake-slicer.glb",
+     "bytes": 5052,
+     "suits": [
+      "cake slicer"
+     ]
+    },
+    {
+     "id": "Cake",
+     "file": "Props/KenneyFoodKit/Cake.glb",
+     "original": "cake.glb",
+     "bytes": 72828,
+     "suits": [
+      "cake"
+     ]
+    },
+    {
+     "id": "Can.Open",
+     "file": "Props/KenneyFoodKit/Can.Open.glb",
+     "original": "can-open.glb",
+     "bytes": 18424,
+     "suits": [
+      "can open"
+     ]
+    },
+    {
+     "id": "Can.Small",
+     "file": "Props/KenneyFoodKit/Can.Small.glb",
+     "original": "can-small.glb",
+     "bytes": 15956,
+     "suits": [
+      "can small"
+     ]
+    },
+    {
+     "id": "Can",
+     "file": "Props/KenneyFoodKit/Can.glb",
+     "original": "can.glb",
+     "bytes": 13704,
+     "suits": [
+      "can"
+     ]
+    },
+    {
+     "id": "Candy.Bar.Wrapper",
+     "file": "Props/KenneyFoodKit/Candy.Bar.Wrapper.glb",
+     "original": "candy-bar-wrapper.glb",
+     "bytes": 6116,
+     "suits": [
+      "candy bar wrapper"
+     ]
+    },
+    {
+     "id": "Candy.Bar",
+     "file": "Props/KenneyFoodKit/Candy.Bar.glb",
+     "original": "candy-bar.glb",
+     "bytes": 7496,
+     "suits": [
+      "candy bar"
+     ]
+    },
+    {
+     "id": "Carrot",
+     "file": "Props/KenneyFoodKit/Carrot.glb",
+     "original": "carrot.glb",
+     "bytes": 16356,
+     "suits": [
+      "carrot"
+     ]
+    },
+    {
+     "id": "Carton.Small",
+     "file": "Props/KenneyFoodKit/Carton.Small.glb",
+     "original": "carton-small.glb",
+     "bytes": 8348,
+     "suits": [
+      "carton small"
+     ]
+    },
+    {
+     "id": "Carton",
+     "file": "Props/KenneyFoodKit/Carton.glb",
+     "original": "carton.glb",
+     "bytes": 9348,
+     "suits": [
+      "carton"
+     ]
+    },
+    {
+     "id": "Cauliflower",
+     "file": "Props/KenneyFoodKit/Cauliflower.glb",
+     "original": "cauliflower.glb",
+     "bytes": 16584,
+     "suits": [
+      "cauliflower"
+     ]
+    },
+    {
+     "id": "Celery.Stick",
+     "file": "Props/KenneyFoodKit/Celery.Stick.glb",
+     "original": "celery-stick.glb",
+     "bytes": 5956,
+     "suits": [
+      "celery stick"
+     ]
+    },
+    {
+     "id": "Cheese.Cut",
+     "file": "Props/KenneyFoodKit/Cheese.Cut.glb",
+     "original": "cheese-cut.glb",
+     "bytes": 13452,
+     "suits": [
+      "cheese cut"
+     ]
+    },
+    {
+     "id": "Cheese.Slicer",
+     "file": "Props/KenneyFoodKit/Cheese.Slicer.glb",
+     "original": "cheese-slicer.glb",
+     "bytes": 5488,
+     "suits": [
+      "cheese slicer"
+     ]
+    },
+    {
+     "id": "Cheese",
+     "file": "Props/KenneyFoodKit/Cheese.glb",
+     "original": "cheese.glb",
+     "bytes": 60852,
+     "suits": [
+      "cheese"
+     ]
+    },
+    {
+     "id": "Cherries",
+     "file": "Props/KenneyFoodKit/Cherries.glb",
+     "original": "cherries.glb",
+     "bytes": 13512,
+     "suits": [
+      "cherries"
+     ]
+    },
+    {
+     "id": "Chinese",
+     "file": "Props/KenneyFoodKit/Chinese.glb",
+     "original": "chinese.glb",
+     "bytes": 19356,
+     "suits": [
+      "chinese"
+     ]
+    },
+    {
+     "id": "Chocolate.Wrapper",
+     "file": "Props/KenneyFoodKit/Chocolate.Wrapper.glb",
+     "original": "chocolate-wrapper.glb",
+     "bytes": 11716,
+     "suits": [
+      "chocolate wrapper"
+     ]
+    },
+    {
+     "id": "Chocolate",
+     "file": "Props/KenneyFoodKit/Chocolate.glb",
+     "original": "chocolate.glb",
+     "bytes": 12640,
+     "suits": [
+      "chocolate"
+     ]
+    },
+    {
+     "id": "Chopstic.Decorative",
+     "file": "Props/KenneyFoodKit/Chopstic.Decorative.glb",
+     "original": "chopstic-decorative.glb",
+     "bytes": 5412,
+     "suits": [
+      "chopstic decorative"
+     ]
+    },
+    {
+     "id": "Chopstick",
+     "file": "Props/KenneyFoodKit/Chopstick.glb",
+     "original": "chopstick.glb",
+     "bytes": 3004,
+     "suits": [
+      "chopstick"
+     ]
+    },
+    {
+     "id": "Cocktail",
+     "file": "Props/KenneyFoodKit/Cocktail.glb",
+     "original": "cocktail.glb",
+     "bytes": 14112,
+     "suits": [
+      "cocktail"
+     ]
+    },
+    {
+     "id": "Coconut.Half",
+     "file": "Props/KenneyFoodKit/Coconut.Half.glb",
+     "original": "coconut-half.glb",
+     "bytes": 8296,
+     "suits": [
+      "coconut half"
+     ]
+    },
+    {
+     "id": "Coconut",
+     "file": "Props/KenneyFoodKit/Coconut.glb",
+     "original": "coconut.glb",
+     "bytes": 8972,
+     "suits": [
+      "coconut"
+     ]
+    },
+    {
+     "id": "Cookie.Chocolate",
+     "file": "Props/KenneyFoodKit/Cookie.Chocolate.glb",
+     "original": "cookie-chocolate.glb",
+     "bytes": 12336,
+     "suits": [
+      "cookie chocolate"
+     ]
+    },
+    {
+     "id": "Cookie",
+     "file": "Props/KenneyFoodKit/Cookie.glb",
+     "original": "cookie.glb",
+     "bytes": 7520,
+     "suits": [
+      "cookie"
+     ]
+    },
+    {
+     "id": "Cooking.Fork",
+     "file": "Props/KenneyFoodKit/Cooking.Fork.glb",
+     "original": "cooking-fork.glb",
+     "bytes": 4868,
+     "suits": [
+      "cooking fork"
+     ]
+    },
+    {
+     "id": "Cooking.Knife.Chopping",
+     "file": "Props/KenneyFoodKit/Cooking.Knife.Chopping.glb",
+     "original": "cooking-knife-chopping.glb",
+     "bytes": 7792,
+     "suits": [
+      "cooking knife chopping"
+     ]
+    },
+    {
+     "id": "Cooking.Knife",
+     "file": "Props/KenneyFoodKit/Cooking.Knife.glb",
+     "original": "cooking-knife.glb",
+     "bytes": 5376,
+     "suits": [
+      "cooking knife"
+     ]
+    },
+    {
+     "id": "Cooking.Spatula",
+     "file": "Props/KenneyFoodKit/Cooking.Spatula.glb",
+     "original": "cooking-spatula.glb",
+     "bytes": 6136,
+     "suits": [
+      "cooking spatula"
+     ]
+    },
+    {
+     "id": "Cooking.Spoon",
+     "file": "Props/KenneyFoodKit/Cooking.Spoon.glb",
+     "original": "cooking-spoon.glb",
+     "bytes": 6792,
+     "suits": [
+      "cooking spoon"
+     ]
+    },
+    {
+     "id": "Corn.Dog",
+     "file": "Props/KenneyFoodKit/Corn.Dog.glb",
+     "original": "corn-dog.glb",
+     "bytes": 9132,
+     "suits": [
+      "corn dog"
+     ]
+    },
+    {
+     "id": "Corn",
+     "file": "Props/KenneyFoodKit/Corn.glb",
+     "original": "corn.glb",
+     "bytes": 14280,
+     "suits": [
+      "corn"
+     ]
+    },
+    {
+     "id": "Croissant",
+     "file": "Props/KenneyFoodKit/Croissant.glb",
+     "original": "croissant.glb",
+     "bytes": 14344,
+     "suits": [
+      "croissant"
+     ]
+    },
+    {
+     "id": "Cup.Coffee",
+     "file": "Props/KenneyFoodKit/Cup.Coffee.glb",
+     "original": "cup-coffee.glb",
+     "bytes": 7872,
+     "suits": [
+      "cup coffee"
+     ]
+    },
+    {
+     "id": "Cup.Saucer",
+     "file": "Props/KenneyFoodKit/Cup.Saucer.glb",
+     "original": "cup-saucer.glb",
+     "bytes": 7844,
+     "suits": [
+      "cup saucer"
+     ]
+    },
+    {
+     "id": "Cup.Tea",
+     "file": "Props/KenneyFoodKit/Cup.Tea.glb",
+     "original": "cup-tea.glb",
+     "bytes": 9776,
+     "suits": [
+      "cup tea"
+     ]
+    },
+    {
+     "id": "Cup",
+     "file": "Props/KenneyFoodKit/Cup.glb",
+     "original": "cup.glb",
+     "bytes": 8004,
+     "suits": [
+      "cup"
+     ]
+    },
+    {
+     "id": "Cupcake",
+     "file": "Props/KenneyFoodKit/Cupcake.glb",
+     "original": "cupcake.glb",
+     "bytes": 22700,
+     "suits": [
+      "cupcake"
+     ]
+    },
+    {
+     "id": "Cutting.Board.Japanese",
+     "file": "Props/KenneyFoodKit/Cutting.Board.Japanese.glb",
+     "original": "cutting-board-japanese.glb",
+     "bytes": 9860,
+     "suits": [
+      "cutting board japanese"
+     ]
+    },
+    {
+     "id": "Cutting.Board.Round",
+     "file": "Props/KenneyFoodKit/Cutting.Board.Round.glb",
+     "original": "cutting-board-round.glb",
+     "bytes": 12600,
+     "suits": [
+      "cutting board round"
+     ]
+    },
+    {
+     "id": "Cutting.Board",
+     "file": "Props/KenneyFoodKit/Cutting.Board.glb",
+     "original": "cutting-board.glb",
+     "bytes": 10648,
+     "suits": [
+      "cutting board"
+     ]
+    },
+    {
+     "id": "Dim.Sum",
+     "file": "Props/KenneyFoodKit/Dim.Sum.glb",
+     "original": "dim-sum.glb",
+     "bytes": 7172,
+     "suits": [
+      "dim sum"
+     ]
+    },
+    {
+     "id": "Donut.Chocolate",
+     "file": "Props/KenneyFoodKit/Donut.Chocolate.glb",
+     "original": "donut-chocolate.glb",
+     "bytes": 12560,
+     "suits": [
+      "donut chocolate"
+     ]
+    },
+    {
+     "id": "Donut.Sprinkles",
+     "file": "Props/KenneyFoodKit/Donut.Sprinkles.glb",
+     "original": "donut-sprinkles.glb",
+     "bytes": 20000,
+     "suits": [
+      "donut sprinkles"
+     ]
+    },
+    {
+     "id": "Donut",
+     "file": "Props/KenneyFoodKit/Donut.glb",
+     "original": "donut.glb",
+     "bytes": 11352,
+     "suits": [
+      "donut"
+     ]
+    },
+    {
+     "id": "Egg.Cooked",
+     "file": "Props/KenneyFoodKit/Egg.Cooked.glb",
+     "original": "egg-cooked.glb",
+     "bytes": 6744,
+     "suits": [
+      "egg cooked"
+     ]
+    },
+    {
+     "id": "Egg.Cup",
+     "file": "Props/KenneyFoodKit/Egg.Cup.glb",
+     "original": "egg-cup.glb",
+     "bytes": 6984,
+     "suits": [
+      "egg cup"
+     ]
+    },
+    {
+     "id": "Egg.Half",
+     "file": "Props/KenneyFoodKit/Egg.Half.glb",
+     "original": "egg-half.glb",
+     "bytes": 8248,
+     "suits": [
+      "egg half"
+     ]
+    },
+    {
+     "id": "Egg",
+     "file": "Props/KenneyFoodKit/Egg.glb",
+     "original": "egg.glb",
+     "bytes": 6028,
+     "suits": [
+      "egg"
+     ]
+    },
+    {
+     "id": "Eggplant",
+     "file": "Props/KenneyFoodKit/Eggplant.glb",
+     "original": "eggplant.glb",
+     "bytes": 13408,
+     "suits": [
+      "eggplant"
+     ]
+    },
+    {
+     "id": "Fish.Bones",
+     "file": "Props/KenneyFoodKit/Fish.Bones.glb",
+     "original": "fish-bones.glb",
+     "bytes": 34060,
+     "suits": [
+      "fish bones"
+     ]
+    },
+    {
+     "id": "Fish",
+     "file": "Props/KenneyFoodKit/Fish.glb",
+     "original": "fish.glb",
+     "bytes": 31664,
+     "suits": [
+      "fish"
+     ]
+    },
+    {
+     "id": "Frappe",
+     "file": "Props/KenneyFoodKit/Frappe.glb",
+     "original": "frappe.glb",
+     "bytes": 22544,
+     "suits": [
+      "frappe"
+     ]
+    },
+    {
+     "id": "Fries.Empty",
+     "file": "Props/KenneyFoodKit/Fries.Empty.glb",
+     "original": "fries-empty.glb",
+     "bytes": 11368,
+     "suits": [
+      "fries empty"
+     ]
+    },
+    {
+     "id": "Fries",
+     "file": "Props/KenneyFoodKit/Fries.glb",
+     "original": "fries.glb",
+     "bytes": 59212,
+     "suits": [
+      "fries"
+     ]
+    },
+    {
+     "id": "Frikandel.Speciaal",
+     "file": "Props/KenneyFoodKit/Frikandel.Speciaal.glb",
+     "original": "frikandel-speciaal.glb",
+     "bytes": 25504,
+     "suits": [
+      "frikandel speciaal"
+     ]
+    },
+    {
+     "id": "Frying.Pan.Lid",
+     "file": "Props/KenneyFoodKit/Frying.Pan.Lid.glb",
+     "original": "frying-pan-lid.glb",
+     "bytes": 13848,
+     "suits": [
+      "frying pan lid"
+     ]
+    },
+    {
+     "id": "Frying.Pan",
+     "file": "Props/KenneyFoodKit/Frying.Pan.glb",
+     "original": "frying-pan.glb",
+     "bytes": 19208,
+     "suits": [
+      "frying pan"
+     ]
+    },
+    {
+     "id": "Ginger.Bread.Cutter",
+     "file": "Props/KenneyFoodKit/Ginger.Bread.Cutter.glb",
+     "original": "ginger-bread-cutter.glb",
+     "bytes": 11964,
+     "suits": [
+      "ginger bread cutter"
+     ]
+    },
+    {
+     "id": "Ginger.Bread",
+     "file": "Props/KenneyFoodKit/Ginger.Bread.glb",
+     "original": "ginger-bread.glb",
+     "bytes": 7748,
+     "suits": [
+      "ginger bread"
+     ]
+    },
+    {
+     "id": "Glass.Wine",
+     "file": "Props/KenneyFoodKit/Glass.Wine.glb",
+     "original": "glass-wine.glb",
+     "bytes": 23976,
+     "suits": [
+      "glass wine"
+     ]
+    },
+    {
+     "id": "Glass",
+     "file": "Props/KenneyFoodKit/Glass.glb",
+     "original": "glass.glb",
+     "bytes": 4208,
+     "suits": [
+      "glass"
+     ]
+    },
+    {
+     "id": "Grapes",
+     "file": "Props/KenneyFoodKit/Grapes.glb",
+     "original": "grapes.glb",
+     "bytes": 58992,
+     "suits": [
+      "grapes"
+     ]
+    },
+    {
+     "id": "Honey",
+     "file": "Props/KenneyFoodKit/Honey.glb",
+     "original": "honey.glb",
+     "bytes": 14888,
+     "suits": [
+      "honey"
+     ]
+    },
+    {
+     "id": "Hot.Dog.Raw",
+     "file": "Props/KenneyFoodKit/Hot.Dog.Raw.glb",
+     "original": "hot-dog-raw.glb",
+     "bytes": 9564,
+     "suits": [
+      "hot dog raw"
+     ]
+    },
+    {
+     "id": "Hot.Dog",
+     "file": "Props/KenneyFoodKit/Hot.Dog.glb",
+     "original": "hot-dog.glb",
+     "bytes": 27672,
+     "suits": [
+      "hot dog"
+     ]
+    },
+    {
+     "id": "Ice.Cream.Cne",
+     "file": "Props/KenneyFoodKit/Ice.Cream.Cne.glb",
+     "original": "ice-cream-cne.glb",
+     "bytes": 5448,
+     "suits": [
+      "ice cream cne"
+     ]
+    },
+    {
+     "id": "Ice.Cream.Cup",
+     "file": "Props/KenneyFoodKit/Ice.Cream.Cup.glb",
+     "original": "ice-cream-cup.glb",
+     "bytes": 7796,
+     "suits": [
+      "ice cream cup"
+     ]
+    },
+    {
+     "id": "Ice.Cream.Scoop.Chocolate",
+     "file": "Props/KenneyFoodKit/Ice.Cream.Scoop.Chocolate.glb",
+     "original": "ice-cream-scoop-chocolate.glb",
+     "bytes": 9008,
+     "suits": [
+      "ice cream scoop chocolate"
+     ]
+    },
+    {
+     "id": "Ice.Cream.Scoop.Mint",
+     "file": "Props/KenneyFoodKit/Ice.Cream.Scoop.Mint.glb",
+     "original": "ice-cream-scoop-mint.glb",
+     "bytes": 7252,
+     "suits": [
+      "ice cream scoop mint"
+     ]
+    },
+    {
+     "id": "Ice.Cream",
+     "file": "Props/KenneyFoodKit/Ice.Cream.glb",
+     "original": "ice-cream.glb",
+     "bytes": 10108,
+     "suits": [
+      "ice cream"
+     ]
+    },
+    {
+     "id": "Knife.Block",
+     "file": "Props/KenneyFoodKit/Knife.Block.glb",
+     "original": "knife-block.glb",
+     "bytes": 20176,
+     "suits": [
+      "knife block"
+     ]
+    },
+    {
+     "id": "Leek",
+     "file": "Props/KenneyFoodKit/Leek.glb",
+     "original": "leek.glb",
+     "bytes": 16640,
+     "suits": [
+      "leek"
+     ]
+    },
+    {
+     "id": "Lemon.Half",
+     "file": "Props/KenneyFoodKit/Lemon.Half.glb",
+     "original": "lemon-half.glb",
+     "bytes": 10272,
+     "suits": [
+      "lemon half"
+     ]
+    },
+    {
+     "id": "Lemon",
+     "file": "Props/KenneyFoodKit/Lemon.glb",
+     "original": "lemon.glb",
+     "bytes": 11916,
+     "suits": [
+      "lemon"
+     ]
+    },
+    {
+     "id": "Loaf.Baguette",
+     "file": "Props/KenneyFoodKit/Loaf.Baguette.glb",
+     "original": "loaf-baguette.glb",
+     "bytes": 12820,
+     "suits": [
+      "loaf baguette"
+     ]
+    },
+    {
+     "id": "Loaf.Round",
+     "file": "Props/KenneyFoodKit/Loaf.Round.glb",
+     "original": "loaf-round.glb",
+     "bytes": 11104,
+     "suits": [
+      "loaf round"
+     ]
+    },
+    {
+     "id": "Loaf",
+     "file": "Props/KenneyFoodKit/Loaf.glb",
+     "original": "loaf.glb",
+     "bytes": 9460,
+     "suits": [
+      "loaf"
+     ]
+    },
+    {
+     "id": "Lollypop",
+     "file": "Props/KenneyFoodKit/Lollypop.glb",
+     "original": "lollypop.glb",
+     "bytes": 8540,
+     "suits": [
+      "lollypop"
+     ]
+    },
+    {
+     "id": "Maki.Roe",
+     "file": "Props/KenneyFoodKit/Maki.Roe.glb",
+     "original": "maki-roe.glb",
+     "bytes": 6560,
+     "suits": [
+      "maki roe"
+     ]
+    },
+    {
+     "id": "Maki.Salmon",
+     "file": "Props/KenneyFoodKit/Maki.Salmon.glb",
+     "original": "maki-salmon.glb",
+     "bytes": 5996,
+     "suits": [
+      "maki salmon"
+     ]
+    },
+    {
+     "id": "Maki.Vegetable",
+     "file": "Props/KenneyFoodKit/Maki.Vegetable.glb",
+     "original": "maki-vegetable.glb",
+     "bytes": 6100,
+     "suits": [
+      "maki vegetable"
+     ]
+    },
+    {
+     "id": "Meat.Cooked",
+     "file": "Props/KenneyFoodKit/Meat.Cooked.glb",
+     "original": "meat-cooked.glb",
+     "bytes": 10532,
+     "suits": [
+      "meat cooked"
+     ]
+    },
+    {
+     "id": "Meat.Patty",
+     "file": "Props/KenneyFoodKit/Meat.Patty.glb",
+     "original": "meat-patty.glb",
+     "bytes": 9080,
+     "suits": [
+      "meat patty"
+     ]
+    },
+    {
+     "id": "Meat.Raw",
+     "file": "Props/KenneyFoodKit/Meat.Raw.glb",
+     "original": "meat-raw.glb",
+     "bytes": 9932,
+     "suits": [
+      "meat raw"
+     ]
+    },
+    {
+     "id": "Meat.Ribs",
+     "file": "Props/KenneyFoodKit/Meat.Ribs.glb",
+     "original": "meat-ribs.glb",
+     "bytes": 14352,
+     "suits": [
+      "meat ribs"
+     ]
+    },
+    {
+     "id": "Meat.Sausage",
+     "file": "Props/KenneyFoodKit/Meat.Sausage.glb",
+     "original": "meat-sausage.glb",
+     "bytes": 47088,
+     "suits": [
+      "meat sausage"
+     ]
+    },
+    {
+     "id": "Meat.Tenderizer",
+     "file": "Props/KenneyFoodKit/Meat.Tenderizer.glb",
+     "original": "meat-tenderizer.glb",
+     "bytes": 31368,
+     "suits": [
+      "meat tenderizer"
+     ]
+    },
+    {
+     "id": "Mincemeat.Pie",
+     "file": "Props/KenneyFoodKit/Mincemeat.Pie.glb",
+     "original": "mincemeat-pie.glb",
+     "bytes": 12700,
+     "suits": [
+      "mincemeat pie"
+     ]
+    },
+    {
+     "id": "Mortar.Pestle",
+     "file": "Props/KenneyFoodKit/Mortar.Pestle.glb",
+     "original": "mortar-pestle.glb",
+     "bytes": 7220,
+     "suits": [
+      "mortar pestle"
+     ]
+    },
+    {
+     "id": "Mortar",
+     "file": "Props/KenneyFoodKit/Mortar.glb",
+     "original": "mortar.glb",
+     "bytes": 10192,
+     "suits": [
+      "mortar"
+     ]
+    },
+    {
+     "id": "Muffin",
+     "file": "Props/KenneyFoodKit/Muffin.glb",
+     "original": "muffin.glb",
+     "bytes": 10244,
+     "suits": [
+      "muffin"
+     ]
+    },
+    {
+     "id": "Mug",
+     "file": "Props/KenneyFoodKit/Mug.glb",
+     "original": "mug.glb",
+     "bytes": 20232,
+     "suits": [
+      "mug"
+     ]
+    },
+    {
+     "id": "Mushroom.Half",
+     "file": "Props/KenneyFoodKit/Mushroom.Half.glb",
+     "original": "mushroom-half.glb",
+     "bytes": 7020,
+     "suits": [
+      "mushroom half"
+     ]
+    },
+    {
+     "id": "Mushroom",
+     "file": "Props/KenneyFoodKit/Mushroom.glb",
+     "original": "mushroom.glb",
+     "bytes": 8432,
+     "suits": [
+      "mushroom"
+     ]
+    },
+    {
+     "id": "Mussel.Open",
+     "file": "Props/KenneyFoodKit/Mussel.Open.glb",
+     "original": "mussel-open.glb",
+     "bytes": 10208,
+     "suits": [
+      "mussel open"
+     ]
+    },
+    {
+     "id": "Mussel",
+     "file": "Props/KenneyFoodKit/Mussel.glb",
+     "original": "mussel.glb",
+     "bytes": 5320,
+     "suits": [
+      "mussel"
+     ]
+    },
+    {
+     "id": "Onion.Half",
+     "file": "Props/KenneyFoodKit/Onion.Half.glb",
+     "original": "onion-half.glb",
+     "bytes": 9080,
+     "suits": [
+      "onion half"
+     ]
+    },
+    {
+     "id": "Onion",
+     "file": "Props/KenneyFoodKit/Onion.glb",
+     "original": "onion.glb",
+     "bytes": 8348,
+     "suits": [
+      "onion"
+     ]
+    },
+    {
+     "id": "Orange",
+     "file": "Props/KenneyFoodKit/Orange.glb",
+     "original": "orange.glb",
+     "bytes": 13080,
+     "suits": [
+      "orange"
+     ]
+    },
+    {
+     "id": "Pan.Stew",
+     "file": "Props/KenneyFoodKit/Pan.Stew.glb",
+     "original": "pan-stew.glb",
+     "bytes": 28312,
+     "suits": [
+      "pan stew"
+     ]
+    },
+    {
+     "id": "Pan",
+     "file": "Props/KenneyFoodKit/Pan.glb",
+     "original": "pan.glb",
+     "bytes": 19948,
+     "suits": [
+      "pan"
+     ]
+    },
+    {
+     "id": "Pancakes",
+     "file": "Props/KenneyFoodKit/Pancakes.glb",
+     "original": "pancakes.glb",
+     "bytes": 42556,
+     "suits": [
+      "pancakes"
+     ]
+    },
+    {
+     "id": "Paprika.Slice",
+     "file": "Props/KenneyFoodKit/Paprika.Slice.glb",
+     "original": "paprika-slice.glb",
+     "bytes": 8984,
+     "suits": [
+      "paprika slice"
+     ]
+    },
+    {
+     "id": "Paprika",
+     "file": "Props/KenneyFoodKit/Paprika.glb",
+     "original": "paprika.glb",
+     "bytes": 15112,
+     "suits": [
+      "paprika"
+     ]
+    },
+    {
+     "id": "Peanut.Butter",
+     "file": "Props/KenneyFoodKit/Peanut.Butter.glb",
+     "original": "peanut-butter.glb",
+     "bytes": 17404,
+     "suits": [
+      "peanut butter"
+     ]
+    },
+    {
+     "id": "Pear.Half",
+     "file": "Props/KenneyFoodKit/Pear.Half.glb",
+     "original": "pear-half.glb",
+     "bytes": 11324,
+     "suits": [
+      "pear half"
+     ]
+    },
+    {
+     "id": "Pear",
+     "file": "Props/KenneyFoodKit/Pear.glb",
+     "original": "pear.glb",
+     "bytes": 15540,
+     "suits": [
+      "pear"
+     ]
+    },
+    {
+     "id": "Pepper.Mill",
+     "file": "Props/KenneyFoodKit/Pepper.Mill.glb",
+     "original": "pepper-mill.glb",
+     "bytes": 25652,
+     "suits": [
+      "pepper mill"
+     ]
+    },
+    {
+     "id": "Pepper",
+     "file": "Props/KenneyFoodKit/Pepper.glb",
+     "original": "pepper.glb",
+     "bytes": 12916,
+     "suits": [
+      "pepper"
+     ]
+    },
+    {
+     "id": "Pie",
+     "file": "Props/KenneyFoodKit/Pie.glb",
+     "original": "pie.glb",
+     "bytes": 22412,
+     "suits": [
+      "pie"
+     ]
+    },
+    {
+     "id": "Pineapple",
+     "file": "Props/KenneyFoodKit/Pineapple.glb",
+     "original": "pineapple.glb",
+     "bytes": 20240,
+     "suits": [
+      "pineapple"
+     ]
+    },
+    {
+     "id": "Pizza.Box",
+     "file": "Props/KenneyFoodKit/Pizza.Box.glb",
+     "original": "pizza-box.glb",
+     "bytes": 8776,
+     "suits": [
+      "pizza box"
+     ]
+    },
+    {
+     "id": "Pizza.Cutter",
+     "file": "Props/KenneyFoodKit/Pizza.Cutter.glb",
+     "original": "pizza-cutter.glb",
+     "bytes": 8580,
+     "suits": [
+      "pizza cutter"
+     ]
+    },
+    {
+     "id": "Pizza",
+     "file": "Props/KenneyFoodKit/Pizza.glb",
+     "original": "pizza.glb",
+     "bytes": 106712,
+     "suits": [
+      "pizza"
+     ]
+    },
+    {
+     "id": "Plate.Broken",
+     "file": "Props/KenneyFoodKit/Plate.Broken.glb",
+     "original": "plate-broken.glb",
+     "bytes": 33164,
+     "suits": [
+      "plate broken"
+     ]
+    },
+    {
+     "id": "Plate.Deep",
+     "file": "Props/KenneyFoodKit/Plate.Deep.glb",
+     "original": "plate-deep.glb",
+     "bytes": 7936,
+     "suits": [
+      "plate deep"
+     ]
+    },
+    {
+     "id": "Plate.Dinner",
+     "file": "Props/KenneyFoodKit/Plate.Dinner.glb",
+     "original": "plate-dinner.glb",
+     "bytes": 27900,
+     "suits": [
+      "plate dinner"
+     ]
+    },
+    {
+     "id": "Plate.Rectangle",
+     "file": "Props/KenneyFoodKit/Plate.Rectangle.glb",
+     "original": "plate-rectangle.glb",
+     "bytes": 6752,
+     "suits": [
+      "plate rectangle"
+     ]
+    },
+    {
+     "id": "Plate.Sauerkraut",
+     "file": "Props/KenneyFoodKit/Plate.Sauerkraut.glb",
+     "original": "plate-sauerkraut.glb",
+     "bytes": 64716,
+     "suits": [
+      "plate sauerkraut"
+     ]
+    },
+    {
+     "id": "Plate",
+     "file": "Props/KenneyFoodKit/Plate.glb",
+     "original": "plate.glb",
+     "bytes": 8476,
+     "suits": [
+      "plate"
+     ]
+    },
+    {
+     "id": "Popsicle.Chocolate",
+     "file": "Props/KenneyFoodKit/Popsicle.Chocolate.glb",
+     "original": "popsicle-chocolate.glb",
+     "bytes": 11788,
+     "suits": [
+      "popsicle chocolate"
+     ]
+    },
+    {
+     "id": "Popsicle.Stick",
+     "file": "Props/KenneyFoodKit/Popsicle.Stick.glb",
+     "original": "popsicle-stick.glb",
+     "bytes": 4760,
+     "suits": [
+      "popsicle stick"
+     ]
+    },
+    {
+     "id": "Popsicle",
+     "file": "Props/KenneyFoodKit/Popsicle.glb",
+     "original": "popsicle.glb",
+     "bytes": 8112,
+     "suits": [
+      "popsicle"
+     ]
+    },
+    {
+     "id": "Pot.Lid",
+     "file": "Props/KenneyFoodKit/Pot.Lid.glb",
+     "original": "pot-lid.glb",
+     "bytes": 10988,
+     "suits": [
+      "pot lid"
+     ]
+    },
+    {
+     "id": "Pot.Stew.Lid",
+     "file": "Props/KenneyFoodKit/Pot.Stew.Lid.glb",
+     "original": "pot-stew-lid.glb",
+     "bytes": 15816,
+     "suits": [
+      "pot stew lid"
+     ]
+    },
+    {
+     "id": "Pot.Stew",
+     "file": "Props/KenneyFoodKit/Pot.Stew.glb",
+     "original": "pot-stew.glb",
+     "bytes": 29552,
+     "suits": [
+      "pot stew"
+     ]
+    },
+    {
+     "id": "Pot",
+     "file": "Props/KenneyFoodKit/Pot.glb",
+     "original": "pot.glb",
+     "bytes": 18892,
+     "suits": [
+      "pot"
+     ]
+    },
+    {
+     "id": "Pudding",
+     "file": "Props/KenneyFoodKit/Pudding.glb",
+     "original": "pudding.glb",
+     "bytes": 6604,
+     "suits": [
+      "pudding"
+     ]
+    },
+    {
+     "id": "Pumpkin.Basic",
+     "file": "Props/KenneyFoodKit/Pumpkin.Basic.glb",
+     "original": "pumpkin-basic.glb",
+     "bytes": 8472,
+     "suits": [
+      "pumpkin basic"
+     ]
+    },
+    {
+     "id": "Pumpkin",
+     "file": "Props/KenneyFoodKit/Pumpkin.glb",
+     "original": "pumpkin.glb",
+     "bytes": 20432,
+     "suits": [
+      "pumpkin"
+     ]
+    },
+    {
+     "id": "Radish",
+     "file": "Props/KenneyFoodKit/Radish.glb",
+     "original": "radish.glb",
+     "bytes": 16452,
+     "suits": [
+      "radish"
+     ]
+    },
+    {
+     "id": "Rice.Ball",
+     "file": "Props/KenneyFoodKit/Rice.Ball.glb",
+     "original": "rice-ball.glb",
+     "bytes": 6192,
+     "suits": [
+      "rice ball"
+     ]
+    },
+    {
+     "id": "Rolling.Pin",
+     "file": "Props/KenneyFoodKit/Rolling.Pin.glb",
+     "original": "rollingPin.glb",
+     "bytes": 14300,
+     "suits": [
+      "rolling pin"
+     ]
+    },
+    {
+     "id": "Salad",
+     "file": "Props/KenneyFoodKit/Salad.glb",
+     "original": "salad.glb",
+     "bytes": 17196,
+     "suits": [
+      "salad"
+     ]
+    },
+    {
+     "id": "Sandwich",
+     "file": "Props/KenneyFoodKit/Sandwich.glb",
+     "original": "sandwich.glb",
+     "bytes": 19708,
+     "suits": [
+      "sandwich"
+     ]
+    },
+    {
+     "id": "Sausage.Half",
+     "file": "Props/KenneyFoodKit/Sausage.Half.glb",
+     "original": "sausage-half.glb",
+     "bytes": 8848,
+     "suits": [
+      "sausage half"
+     ]
+    },
+    {
+     "id": "Sausage",
+     "file": "Props/KenneyFoodKit/Sausage.glb",
+     "original": "sausage.glb",
+     "bytes": 9552,
+     "suits": [
+      "sausage"
+     ]
+    },
+    {
+     "id": "Shaker.Pepper",
+     "file": "Props/KenneyFoodKit/Shaker.Pepper.glb",
+     "original": "shaker-pepper.glb",
+     "bytes": 9292,
+     "suits": [
+      "shaker pepper"
+     ]
+    },
+    {
+     "id": "Shaker.Salt",
+     "file": "Props/KenneyFoodKit/Shaker.Salt.glb",
+     "original": "shaker-salt.glb",
+     "bytes": 11784,
+     "suits": [
+      "shaker salt"
+     ]
+    },
+    {
+     "id": "Skewer.Vegetables",
+     "file": "Props/KenneyFoodKit/Skewer.Vegetables.glb",
+     "original": "skewer-vegetables.glb",
+     "bytes": 22576,
+     "suits": [
+      "skewer vegetables"
+     ]
+    },
+    {
+     "id": "Skewer",
+     "file": "Props/KenneyFoodKit/Skewer.glb",
+     "original": "skewer.glb",
+     "bytes": 16520,
+     "suits": [
+      "skewer"
+     ]
+    },
+    {
+     "id": "Soda.Bottle",
+     "file": "Props/KenneyFoodKit/Soda.Bottle.glb",
+     "original": "soda-bottle.glb",
+     "bytes": 11316,
+     "suits": [
+      "soda bottle"
+     ]
+    },
+    {
+     "id": "Soda.Can.Crushed",
+     "file": "Props/KenneyFoodKit/Soda.Can.Crushed.glb",
+     "original": "soda-can-crushed.glb",
+     "bytes": 21304,
+     "suits": [
+      "soda can crushed"
+     ]
+    },
+    {
+     "id": "Soda.Can",
+     "file": "Props/KenneyFoodKit/Soda.Can.glb",
+     "original": "soda-can.glb",
+     "bytes": 16380,
+     "suits": [
+      "soda can"
+     ]
+    },
+    {
+     "id": "Soda.Glass",
+     "file": "Props/KenneyFoodKit/Soda.Glass.glb",
+     "original": "soda-glass.glb",
+     "bytes": 12868,
+     "suits": [
+      "soda glass"
+     ]
+    },
+    {
+     "id": "Soda",
+     "file": "Props/KenneyFoodKit/Soda.glb",
+     "original": "soda.glb",
+     "bytes": 12348,
+     "suits": [
+      "soda"
+     ]
+    },
+    {
+     "id": "Soy",
+     "file": "Props/KenneyFoodKit/Soy.glb",
+     "original": "soy.glb",
+     "bytes": 5140,
+     "suits": [
+      "soy"
+     ]
+    },
+    {
+     "id": "Steamer",
+     "file": "Props/KenneyFoodKit/Steamer.glb",
+     "original": "steamer.glb",
+     "bytes": 45676,
+     "suits": [
+      "steamer"
+     ]
+    },
+    {
+     "id": "Strawberry",
+     "file": "Props/KenneyFoodKit/Strawberry.glb",
+     "original": "strawberry.glb",
+     "bytes": 16608,
+     "suits": [
+      "strawberry"
+     ]
+    },
+    {
+     "id": "Styrofoam.Dinner",
+     "file": "Props/KenneyFoodKit/Styrofoam.Dinner.glb",
+     "original": "styrofoam-dinner.glb",
+     "bytes": 24404,
+     "suits": [
+      "styrofoam dinner"
+     ]
+    },
+    {
+     "id": "Styrofoam",
+     "file": "Props/KenneyFoodKit/Styrofoam.glb",
+     "original": "styrofoam.glb",
+     "bytes": 11964,
+     "suits": [
+      "styrofoam"
+     ]
+    },
+    {
+     "id": "Sub",
+     "file": "Props/KenneyFoodKit/Sub.glb",
+     "original": "sub.glb",
+     "bytes": 58336,
+     "suits": [
+      "sub"
+     ]
+    },
+    {
+     "id": "Sundae",
+     "file": "Props/KenneyFoodKit/Sundae.glb",
+     "original": "sundae.glb",
+     "bytes": 26396,
+     "suits": [
+      "sundae"
+     ]
+    },
+    {
+     "id": "Sushi.Egg",
+     "file": "Props/KenneyFoodKit/Sushi.Egg.glb",
+     "original": "sushi-egg.glb",
+     "bytes": 7628,
+     "suits": [
+      "sushi egg"
+     ]
+    },
+    {
+     "id": "Sushi.Salmon",
+     "file": "Props/KenneyFoodKit/Sushi.Salmon.glb",
+     "original": "sushi-salmon.glb",
+     "bytes": 8844,
+     "suits": [
+      "sushi salmon"
+     ]
+    },
+    {
+     "id": "Taco",
+     "file": "Props/KenneyFoodKit/Taco.glb",
+     "original": "taco.glb",
+     "bytes": 17472,
+     "suits": [
+      "taco"
+     ]
+    },
+    {
+     "id": "Tajine.Lid",
+     "file": "Props/KenneyFoodKit/Tajine.Lid.glb",
+     "original": "tajine-lid.glb",
+     "bytes": 13788,
+     "suits": [
+      "tajine lid"
+     ]
+    },
+    {
+     "id": "Tajine",
+     "file": "Props/KenneyFoodKit/Tajine.glb",
+     "original": "tajine.glb",
+     "bytes": 15636,
+     "suits": [
+      "tajine"
+     ]
+    },
+    {
+     "id": "Tomato.Slice",
+     "file": "Props/KenneyFoodKit/Tomato.Slice.glb",
+     "original": "tomato-slice.glb",
+     "bytes": 12344,
+     "suits": [
+      "tomato slice"
+     ]
+    },
+    {
+     "id": "Tomato",
+     "file": "Props/KenneyFoodKit/Tomato.glb",
+     "original": "tomato.glb",
+     "bytes": 14076,
+     "suits": [
+      "tomato"
+     ]
+    },
+    {
+     "id": "Turkey",
+     "file": "Props/KenneyFoodKit/Turkey.glb",
+     "original": "turkey.glb",
+     "bytes": 37168,
+     "suits": [
+      "turkey"
+     ]
+    },
+    {
+     "id": "Utensil.Fork",
+     "file": "Props/KenneyFoodKit/Utensil.Fork.glb",
+     "original": "utensil-fork.glb",
+     "bytes": 4816,
+     "suits": [
+      "utensil fork"
+     ]
+    },
+    {
+     "id": "Utensil.Knife",
+     "file": "Props/KenneyFoodKit/Utensil.Knife.glb",
+     "original": "utensil-knife.glb",
+     "bytes": 3488,
+     "suits": [
+      "utensil knife"
+     ]
+    },
+    {
+     "id": "Utensil.Spoon",
+     "file": "Props/KenneyFoodKit/Utensil.Spoon.glb",
+     "original": "utensil-spoon.glb",
+     "bytes": 6120,
+     "suits": [
+      "utensil spoon"
+     ]
+    },
+    {
+     "id": "Waffle",
+     "file": "Props/KenneyFoodKit/Waffle.glb",
+     "original": "waffle.glb",
+     "bytes": 47920,
+     "suits": [
+      "waffle"
+     ]
+    },
+    {
+     "id": "Watermelon",
+     "file": "Props/KenneyFoodKit/Watermelon.glb",
+     "original": "watermelon.glb",
+     "bytes": 93804,
+     "suits": [
+      "watermelon"
+     ]
+    },
+    {
+     "id": "Whipped.Cream",
+     "file": "Props/KenneyFoodKit/Whipped.Cream.glb",
+     "original": "whipped-cream.glb",
+     "bytes": 4912,
+     "suits": [
+      "whipped cream"
+     ]
+    },
+    {
+     "id": "Whisk",
+     "file": "Props/KenneyFoodKit/Whisk.glb",
+     "original": "whisk.glb",
+     "bytes": 10256,
+     "suits": [
+      "whisk"
+     ]
+    },
+    {
+     "id": "Whole.Ham",
+     "file": "Props/KenneyFoodKit/Whole.Ham.glb",
+     "original": "whole-ham.glb",
+     "bytes": 11740,
+     "suits": [
+      "whole ham"
+     ]
+    },
+    {
+     "id": "Wholer.Ham",
+     "file": "Props/KenneyFoodKit/Wholer.Ham.glb",
+     "original": "wholer-ham.glb",
+     "bytes": 12904,
+     "suits": [
+      "wholer ham"
+     ]
+    },
+    {
+     "id": "Wine.Red",
+     "file": "Props/KenneyFoodKit/Wine.Red.glb",
+     "original": "wine-red.glb",
+     "bytes": 14188,
+     "suits": [
+      "wine red"
+     ]
+    },
+    {
+     "id": "Wine.White",
+     "file": "Props/KenneyFoodKit/Wine.White.glb",
+     "original": "wine-white.glb",
+     "bytes": 13516,
+     "suits": [
+      "wine white"
+     ]
+    }
+   ]
+  }
+ ]
 }
